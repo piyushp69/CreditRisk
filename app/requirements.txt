@@ -1,0 +1,8 @@
+# Website only (Streamlit Community Cloud reads this file because it sits next to app/app.py).
+# Versions are the ones the site was built and tested with locally (Python 3.14).
+streamlit==1.63.0
+pandas==3.0.5
+numpy==2.5.2
+pyarrow==25.0.1
+plotly==7.0.0
+lightgbm==4.7.0

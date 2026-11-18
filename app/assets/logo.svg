@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="48" viewBox="0 0 250 48">
+  <rect x="2" y="6" width="36" height="36" rx="9" fill="#2a78d6"/>
+  <rect x="9" y="27" width="5" height="9" rx="1.5" fill="#ffffff"/>
+  <rect x="17.5" y="21" width="5" height="15" rx="1.5" fill="#ffffff"/>
+  <rect x="26" y="14" width="5" height="22" rx="1.5" fill="#ffffff"/>
+  <text x="48" y="23" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2a78d6">Loan Default Risk</text>
+  <text x="48" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#898781">Home Credit · INT234 project</text>
+</svg>

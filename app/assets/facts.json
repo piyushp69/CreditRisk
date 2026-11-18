@@ -1,0 +1,196 @@
+{
+ "dataset": {
+  "n_raw": 307511,
+  "n_raw_columns": 122,
+  "n_clean": 307507,
+  "n_repaid": 282686,
+  "n_defaults": 24825,
+  "default_rate": 0.08072881945686496,
+  "repaid_per_default": 11.387150050352467,
+  "xna_rows": 4,
+  "n_features": 161,
+  "n_categorical": 16,
+  "n_numeric": 145,
+  "n_train": 246005,
+  "n_holdout": 61502,
+  "train_default_rate": 0.08073006646206378,
+  "holdout_default_rate": 0.08072908198107379,
+  "n_holdout_defaults": 4965,
+  "missing_columns": 67,
+  "missing_over_50": 41,
+  "building_over_50": 39,
+  "max_pct_missing": 69.87229725115525,
+  "anomaly_count": 55374,
+  "anomaly_share": 0.18007160719453938,
+  "anomaly_rate": 0.05399646043269404,
+  "valid_rate": 0.0865997453765215,
+  "anomaly_pensioners": 55352,
+  "anomaly_unemployed": 22,
+  "income_median": 147150.0,
+  "income_p999": 900000.0,
+  "income_max": 117000000.0,
+  "income_n_above_p999": 278,
+  "income_rate_above_p999": 0.0539568345323741,
+  "n_test_unlabelled": 48744,
+  "kaggle_url": "https://www.kaggle.com/competitions/home-credit-default-risk"
+ },
+ "config": {
+  "random_state": 42,
+  "holdout_share": 0.2000019511750952,
+  "cv_folds": 5,
+  "lgd": 0.6,
+  "margin": 0.15,
+  "early_stopping_rounds": 100,
+  "es_fraction": 0.1
+ },
+ "eda": {
+  "overall_rate_clean": 0.08072986956394489,
+  "no_bureau": 44020,
+  "no_prev": 16454,
+  "neither": 2470,
+  "no_bureau_with_prev_share": 0.9438891412994094,
+  "no_bureau_with_inst_share": 0.9459336665152204,
+  "occupation_missing": 96389
+ },
+ "models": {
+  "order": [
+   "Logistic regression",
+   "Decision tree",
+   "Random forest",
+   "XGBoost",
+   "LightGBM"
+  ],
+  "params": {
+   "Decision tree": {
+    "params": {
+     "max_depth": 6,
+     "min_samples_leaf": 200
+    },
+    "class_weight": "balanced",
+    "depth": 6,
+    "leaves": 64,
+    "cv_auc_mean": 0.726609961387721,
+    "cv_auc_std": 0.0021981990661534166
+   },
+   "Random forest": {
+    "params": {
+     "n_estimators": 400,
+     "min_samples_leaf": 20,
+     "max_features": 0.3,
+     "max_depth": null
+    },
+    "class_weight": "balanced_subsample",
+    "max_samples": 0.5,
+    "trials_run": 12,
+    "cv_auc_mean": 0.7591683204973452,
+    "cv_auc_std": 0.0021857837196991043
+   },
+   "XGBoost": {
+    "params": {
+     "learning_rate": 0.05,
+     "max_depth": 6,
+     "min_child_weight": 5,
+     "subsample": 0.8,
+     "colsample_bytree": 0.5,
+     "reg_lambda": 1.0
+    },
+    "final_best_iteration": 333,
+    "cv_auc_mean": 0.7698292166414542,
+    "cv_auc_std": 0.0016888070490460633
+   },
+   "LightGBM": {
+    "params": {
+     "subsample": 0.8,
+     "reg_lambda": 10,
+     "num_leaves": 15,
+     "min_child_samples": 100,
+     "learning_rate": 0.02,
+     "colsample_bytree": 0.3
+    },
+    "cv_auc_mean": 0.7757928662769881,
+    "cv_auc_std": 0.0015055327179325081,
+    "cv_best_iterations": [
+     1131,
+     1104,
+     1531,
+     785,
+     1527
+    ],
+    "final_best_iteration": 2203
+   }
+  },
+  "thresholds": {
+   "Logistic regression": 0.74,
+   "Decision tree": 0.76,
+   "Random forest": 0.52,
+   "XGBoost": 0.7,
+   "LightGBM": 0.7
+  },
+  "best_by_auc": "LightGBM",
+  "approve_all_cost": 1665214629.3,
+  "approve_all_accuracy": 0.9192709180189262,
+  "n_inputs": {
+   "Logistic regression": 325,
+   "Decision tree": 234,
+   "Random forest": 234
+  }
+ },
+ "clustering": {
+  "chosen_k": 6,
+  "silhouette_sample_size": 20000,
+  "plot_sample_size": 10000,
+  "silhouette_chosen_k": 0.16340882002035714,
+  "plot_pca_variance": [
+   0.26101676197492524,
+   0.17964776488546452
+  ],
+  "most_separating_features": [
+   "INST_LATE_SHARE",
+   "PREV_REFUSED_SHARE"
+  ],
+  "separation_share": {
+   "INST_LATE_SHARE": 0.6035343677531088,
+   "PREV_REFUSED_SHARE": 0.6018187543825101,
+   "YEARS_EMPLOYED": 0.5816909692950231,
+   "CREDIT_INCOME_RATIO": 0.47973791808925115,
+   "ANNUITY_INCOME_RATIO": 0.4578527662599908,
+   "AGE_YEARS": 0.42795681374778594,
+   "EXT_SOURCE_MEAN": 0.19949284806808526,
+   "LOG_INCOME": 0.12474625910780858
+  },
+  "overall_train_default_rate": 0.08073006646206378,
+  "holdout_auc_change": -0.0006272465548098349,
+  "cv_auc_change": 0.0004889796908412736
+ },
+ "thin_file": {
+  "neither_holdout": 480,
+  "neither_holdout_defaults": 35,
+  "neither_auc": 0.7893418940609952,
+  "neither_ci": [
+   0.7294662916210669,
+   0.8564334839775699
+  ],
+  "n_boot": 200
+ },
+ "shap": {
+  "sample": 5000,
+  "base_value": -0.6450368587436481,
+  "gender_mean_shap": {
+   "F": -0.08414655239783193,
+   "M": 0.15866409551608812
+  },
+  "rejected_in_sample": 542
+ },
+ "fairness": {
+  "auc_with": 0.7819045111596303,
+  "auc_without": 0.7803331351367883,
+  "cv_auc_with": 0.7757928662769881,
+  "cv_auc_without": 0.774258036149796,
+  "t_with": 0.7,
+  "t_without": 0.72,
+  "cost_with": 1431358553.925,
+  "cost_without": 1444856943.375,
+  "proxy_auc": 0.9094317120165086
+ },
+ "built": "2026-11-17 23:39"
+}

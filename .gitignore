@@ -1,0 +1,19 @@
+# Data files: large and covered by the Kaggle competition rules. Re-download them as described in data/README.md
+data/raw/
+data/processed/
+
+# Kaggle API credentials (matched at any depth)
+kaggle.json
+
+# Large model recreated if notebooks/03_modeling.ipynb is re-run (57 MB; not needed by the website)
+models/rf_pipeline.joblib
+
+# Local run logs
+_*.log
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+
+# Cleanup holding folder (unused files kept for review before manual deletion)
+_to_delete/

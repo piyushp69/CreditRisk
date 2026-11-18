@@ -1,0 +1,1951 @@
+LGD,MARGIN,optimal_threshold,model
+0.2,0.05,0.74,Logistic regression
+0.2,0.06,0.79,Logistic regression
+0.2,0.07,0.81,Logistic regression
+0.2,0.08,0.82,Logistic regression
+0.2,0.09,0.85,Logistic regression
+0.2,0.1,0.87,Logistic regression
+0.2,0.11,0.87,Logistic regression
+0.2,0.12,0.87,Logistic regression
+0.2,0.13,0.9,Logistic regression
+0.2,0.14,0.92,Logistic regression
+0.2,0.15,0.92,Logistic regression
+0.2,0.16,0.92,Logistic regression
+0.2,0.17,0.92,Logistic regression
+0.2,0.18,0.92,Logistic regression
+0.2,0.19,0.92,Logistic regression
+0.2,0.2,0.92,Logistic regression
+0.2,0.21,0.92,Logistic regression
+0.2,0.22,0.95,Logistic regression
+0.2,0.23,0.95,Logistic regression
+0.2,0.24,0.97,Logistic regression
+0.2,0.25,0.99,Logistic regression
+0.2,0.26,0.99,Logistic regression
+0.2,0.27,0.99,Logistic regression
+0.2,0.28,0.99,Logistic regression
+0.2,0.29,0.99,Logistic regression
+0.2,0.3,0.99,Logistic regression
+0.25,0.05,0.7,Logistic regression
+0.25,0.06,0.74,Logistic regression
+0.25,0.07,0.78,Logistic regression
+0.25,0.08,0.8,Logistic regression
+0.25,0.09,0.81,Logistic regression
+0.25,0.1,0.82,Logistic regression
+0.25,0.11,0.85,Logistic regression
+0.25,0.12,0.86,Logistic regression
+0.25,0.13,0.87,Logistic regression
+0.25,0.14,0.87,Logistic regression
+0.25,0.15,0.87,Logistic regression
+0.25,0.16,0.9,Logistic regression
+0.25,0.17,0.92,Logistic regression
+0.25,0.18,0.92,Logistic regression
+0.25,0.19,0.92,Logistic regression
+0.25,0.2,0.92,Logistic regression
+0.25,0.21,0.92,Logistic regression
+0.25,0.22,0.92,Logistic regression
+0.25,0.23,0.92,Logistic regression
+0.25,0.24,0.92,Logistic regression
+0.25,0.25,0.92,Logistic regression
+0.25,0.26,0.92,Logistic regression
+0.25,0.27,0.95,Logistic regression
+0.25,0.28,0.95,Logistic regression
+0.25,0.29,0.95,Logistic regression
+0.25,0.3,0.97,Logistic regression
+0.3,0.05,0.64,Logistic regression
+0.3,0.06,0.7,Logistic regression
+0.3,0.07,0.74,Logistic regression
+0.3,0.08,0.77,Logistic regression
+0.3,0.09,0.79,Logistic regression
+0.3,0.1,0.81,Logistic regression
+0.3,0.11,0.82,Logistic regression
+0.3,0.12,0.82,Logistic regression
+0.3,0.13,0.85,Logistic regression
+0.3,0.14,0.86,Logistic regression
+0.3,0.15,0.87,Logistic regression
+0.3,0.16,0.87,Logistic regression
+0.3,0.17,0.87,Logistic regression
+0.3,0.18,0.87,Logistic regression
+0.3,0.19,0.9,Logistic regression
+0.3,0.2,0.91,Logistic regression
+0.3,0.21,0.92,Logistic regression
+0.3,0.22,0.92,Logistic regression
+0.3,0.23,0.92,Logistic regression
+0.3,0.24,0.92,Logistic regression
+0.3,0.25,0.92,Logistic regression
+0.3,0.26,0.92,Logistic regression
+0.3,0.27,0.92,Logistic regression
+0.3,0.28,0.92,Logistic regression
+0.3,0.29,0.92,Logistic regression
+0.3,0.3,0.92,Logistic regression
+0.35,0.05,0.63,Logistic regression
+0.35,0.06,0.64,Logistic regression
+0.35,0.07,0.7,Logistic regression
+0.35,0.08,0.74,Logistic regression
+0.35,0.09,0.74,Logistic regression
+0.35,0.1,0.79,Logistic regression
+0.35,0.11,0.8,Logistic regression
+0.35,0.12,0.81,Logistic regression
+0.35,0.13,0.82,Logistic regression
+0.35,0.14,0.82,Logistic regression
+0.35,0.15,0.84,Logistic regression
+0.35,0.16,0.86,Logistic regression
+0.35,0.17,0.86,Logistic regression
+0.35,0.18,0.87,Logistic regression
+0.35,0.19,0.87,Logistic regression
+0.35,0.2,0.87,Logistic regression
+0.35,0.21,0.87,Logistic regression
+0.35,0.22,0.9,Logistic regression
+0.35,0.23,0.9,Logistic regression
+0.35,0.24,0.92,Logistic regression
+0.35,0.25,0.92,Logistic regression
+0.35,0.26,0.92,Logistic regression
+0.35,0.27,0.92,Logistic regression
+0.35,0.28,0.92,Logistic regression
+0.35,0.29,0.92,Logistic regression
+0.35,0.3,0.92,Logistic regression
+0.4,0.05,0.6,Logistic regression
+0.4,0.06,0.63,Logistic regression
+0.4,0.07,0.64,Logistic regression
+0.4,0.08,0.7,Logistic regression
+0.4,0.09,0.74,Logistic regression
+0.4,0.1,0.74,Logistic regression
+0.4,0.11,0.78,Logistic regression
+0.4,0.12,0.79,Logistic regression
+0.4,0.13,0.8,Logistic regression
+0.4,0.14,0.81,Logistic regression
+0.4,0.15,0.82,Logistic regression
+0.4,0.16,0.82,Logistic regression
+0.4,0.17,0.84,Logistic regression
+0.4,0.18,0.85,Logistic regression
+0.4,0.19,0.86,Logistic regression
+0.4,0.2,0.87,Logistic regression
+0.4,0.21,0.87,Logistic regression
+0.4,0.22,0.87,Logistic regression
+0.4,0.23,0.87,Logistic regression
+0.4,0.24,0.87,Logistic regression
+0.4,0.25,0.9,Logistic regression
+0.4,0.26,0.9,Logistic regression
+0.4,0.27,0.91,Logistic regression
+0.4,0.28,0.92,Logistic regression
+0.4,0.29,0.92,Logistic regression
+0.4,0.3,0.92,Logistic regression
+0.45,0.05,0.56,Logistic regression
+0.45,0.06,0.6,Logistic regression
+0.45,0.07,0.63,Logistic regression
+0.45,0.08,0.67,Logistic regression
+0.45,0.09,0.7,Logistic regression
+0.45,0.1,0.73,Logistic regression
+0.45,0.11,0.74,Logistic regression
+0.45,0.12,0.77,Logistic regression
+0.45,0.13,0.79,Logistic regression
+0.45,0.14,0.8,Logistic regression
+0.45,0.15,0.81,Logistic regression
+0.45,0.16,0.81,Logistic regression
+0.45,0.17,0.82,Logistic regression
+0.45,0.18,0.82,Logistic regression
+0.45,0.19,0.84,Logistic regression
+0.45,0.2,0.85,Logistic regression
+0.45,0.21,0.86,Logistic regression
+0.45,0.22,0.86,Logistic regression
+0.45,0.23,0.87,Logistic regression
+0.45,0.24,0.87,Logistic regression
+0.45,0.25,0.87,Logistic regression
+0.45,0.26,0.87,Logistic regression
+0.45,0.27,0.87,Logistic regression
+0.45,0.28,0.9,Logistic regression
+0.45,0.29,0.9,Logistic regression
+0.45,0.3,0.91,Logistic regression
+0.5,0.05,0.54,Logistic regression
+0.5,0.06,0.58,Logistic regression
+0.5,0.07,0.61,Logistic regression
+0.5,0.08,0.63,Logistic regression
+0.5,0.09,0.67,Logistic regression
+0.5,0.1,0.7,Logistic regression
+0.5,0.11,0.73,Logistic regression
+0.5,0.12,0.74,Logistic regression
+0.5,0.13,0.74,Logistic regression
+0.5,0.14,0.78,Logistic regression
+0.5,0.15,0.79,Logistic regression
+0.5,0.16,0.8,Logistic regression
+0.5,0.17,0.81,Logistic regression
+0.5,0.18,0.81,Logistic regression
+0.5,0.19,0.82,Logistic regression
+0.5,0.2,0.82,Logistic regression
+0.5,0.21,0.84,Logistic regression
+0.5,0.22,0.85,Logistic regression
+0.5,0.23,0.86,Logistic regression
+0.5,0.24,0.86,Logistic regression
+0.5,0.25,0.87,Logistic regression
+0.5,0.26,0.87,Logistic regression
+0.5,0.27,0.87,Logistic regression
+0.5,0.28,0.87,Logistic regression
+0.5,0.29,0.87,Logistic regression
+0.5,0.3,0.87,Logistic regression
+0.55,0.05,0.5,Logistic regression
+0.55,0.06,0.56,Logistic regression
+0.55,0.07,0.6,Logistic regression
+0.55,0.08,0.63,Logistic regression
+0.55,0.09,0.63,Logistic regression
+0.55,0.1,0.68,Logistic regression
+0.55,0.11,0.7,Logistic regression
+0.55,0.12,0.73,Logistic regression
+0.55,0.13,0.74,Logistic regression
+0.55,0.14,0.74,Logistic regression
+0.55,0.15,0.78,Logistic regression
+0.55,0.16,0.79,Logistic regression
+0.55,0.17,0.79,Logistic regression
+0.55,0.18,0.81,Logistic regression
+0.55,0.19,0.81,Logistic regression
+0.55,0.2,0.82,Logistic regression
+0.55,0.21,0.82,Logistic regression
+0.55,0.22,0.82,Logistic regression
+0.55,0.23,0.84,Logistic regression
+0.55,0.24,0.85,Logistic regression
+0.55,0.25,0.86,Logistic regression
+0.55,0.26,0.86,Logistic regression
+0.55,0.27,0.86,Logistic regression
+0.55,0.28,0.87,Logistic regression
+0.55,0.29,0.87,Logistic regression
+0.55,0.3,0.87,Logistic regression
+0.6,0.05,0.5,Logistic regression
+0.6,0.06,0.54,Logistic regression
+0.6,0.07,0.57,Logistic regression
+0.6,0.08,0.6,Logistic regression
+0.6,0.09,0.63,Logistic regression
+0.6,0.1,0.64,Logistic regression
+0.6,0.11,0.68,Logistic regression
+0.6,0.12,0.7,Logistic regression
+0.6,0.13,0.73,Logistic regression
+0.6,0.14,0.74,Logistic regression
+0.6,0.15,0.74,Logistic regression
+0.6,0.16,0.77,Logistic regression
+0.6,0.17,0.79,Logistic regression
+0.6,0.18,0.79,Logistic regression
+0.6,0.19,0.8,Logistic regression
+0.6,0.2,0.81,Logistic regression
+0.6,0.21,0.81,Logistic regression
+0.6,0.22,0.82,Logistic regression
+0.6,0.23,0.82,Logistic regression
+0.6,0.24,0.82,Logistic regression
+0.6,0.25,0.84,Logistic regression
+0.6,0.26,0.85,Logistic regression
+0.6,0.27,0.85,Logistic regression
+0.6,0.28,0.86,Logistic regression
+0.6,0.29,0.86,Logistic regression
+0.6,0.3,0.87,Logistic regression
+0.65,0.05,0.44,Logistic regression
+0.65,0.06,0.51,Logistic regression
+0.65,0.07,0.56,Logistic regression
+0.65,0.08,0.58,Logistic regression
+0.65,0.09,0.61,Logistic regression
+0.65,0.1,0.63,Logistic regression
+0.65,0.11,0.64,Logistic regression
+0.65,0.12,0.68,Logistic regression
+0.65,0.13,0.7,Logistic regression
+0.65,0.14,0.73,Logistic regression
+0.65,0.15,0.74,Logistic regression
+0.65,0.16,0.74,Logistic regression
+0.65,0.17,0.74,Logistic regression
+0.65,0.18,0.78,Logistic regression
+0.65,0.19,0.79,Logistic regression
+0.65,0.2,0.79,Logistic regression
+0.65,0.21,0.8,Logistic regression
+0.65,0.22,0.81,Logistic regression
+0.65,0.23,0.81,Logistic regression
+0.65,0.24,0.82,Logistic regression
+0.65,0.25,0.82,Logistic regression
+0.65,0.26,0.82,Logistic regression
+0.65,0.27,0.84,Logistic regression
+0.65,0.28,0.85,Logistic regression
+0.65,0.29,0.85,Logistic regression
+0.65,0.3,0.86,Logistic regression
+0.7,0.05,0.44,Logistic regression
+0.7,0.06,0.5,Logistic regression
+0.7,0.07,0.54,Logistic regression
+0.7,0.08,0.56,Logistic regression
+0.7,0.09,0.6,Logistic regression
+0.7,0.1,0.63,Logistic regression
+0.7,0.11,0.63,Logistic regression
+0.7,0.12,0.64,Logistic regression
+0.7,0.13,0.7,Logistic regression
+0.7,0.14,0.7,Logistic regression
+0.7,0.15,0.73,Logistic regression
+0.7,0.16,0.74,Logistic regression
+0.7,0.17,0.74,Logistic regression
+0.7,0.18,0.74,Logistic regression
+0.7,0.19,0.78,Logistic regression
+0.7,0.2,0.79,Logistic regression
+0.7,0.21,0.79,Logistic regression
+0.7,0.22,0.8,Logistic regression
+0.7,0.23,0.81,Logistic regression
+0.7,0.24,0.81,Logistic regression
+0.7,0.25,0.81,Logistic regression
+0.7,0.26,0.82,Logistic regression
+0.7,0.27,0.82,Logistic regression
+0.7,0.28,0.82,Logistic regression
+0.7,0.29,0.84,Logistic regression
+0.7,0.3,0.84,Logistic regression
+0.75,0.05,0.42,Logistic regression
+0.75,0.06,0.47,Logistic regression
+0.75,0.07,0.51,Logistic regression
+0.75,0.08,0.54,Logistic regression
+0.75,0.09,0.58,Logistic regression
+0.75,0.1,0.6,Logistic regression
+0.75,0.11,0.63,Logistic regression
+0.75,0.12,0.63,Logistic regression
+0.75,0.13,0.64,Logistic regression
+0.75,0.14,0.7,Logistic regression
+0.75,0.15,0.7,Logistic regression
+0.75,0.16,0.73,Logistic regression
+0.75,0.17,0.74,Logistic regression
+0.75,0.18,0.74,Logistic regression
+0.75,0.19,0.74,Logistic regression
+0.75,0.2,0.77,Logistic regression
+0.75,0.21,0.78,Logistic regression
+0.75,0.22,0.79,Logistic regression
+0.75,0.23,0.79,Logistic regression
+0.75,0.24,0.8,Logistic regression
+0.75,0.25,0.81,Logistic regression
+0.75,0.26,0.81,Logistic regression
+0.75,0.27,0.81,Logistic regression
+0.75,0.28,0.82,Logistic regression
+0.75,0.29,0.82,Logistic regression
+0.75,0.3,0.82,Logistic regression
+0.8,0.05,0.42,Logistic regression
+0.8,0.06,0.44,Logistic regression
+0.8,0.07,0.5,Logistic regression
+0.8,0.08,0.54,Logistic regression
+0.8,0.09,0.56,Logistic regression
+0.8,0.1,0.6,Logistic regression
+0.8,0.11,0.6,Logistic regression
+0.8,0.12,0.63,Logistic regression
+0.8,0.13,0.63,Logistic regression
+0.8,0.14,0.64,Logistic regression
+0.8,0.15,0.7,Logistic regression
+0.8,0.16,0.7,Logistic regression
+0.8,0.17,0.71,Logistic regression
+0.8,0.18,0.74,Logistic regression
+0.8,0.19,0.74,Logistic regression
+0.8,0.2,0.74,Logistic regression
+0.8,0.21,0.74,Logistic regression
+0.8,0.22,0.78,Logistic regression
+0.8,0.23,0.79,Logistic regression
+0.8,0.24,0.79,Logistic regression
+0.8,0.25,0.8,Logistic regression
+0.8,0.26,0.8,Logistic regression
+0.8,0.27,0.81,Logistic regression
+0.8,0.28,0.81,Logistic regression
+0.8,0.29,0.82,Logistic regression
+0.8,0.3,0.82,Logistic regression
+0.85,0.05,0.42,Logistic regression
+0.85,0.06,0.44,Logistic regression
+0.85,0.07,0.48,Logistic regression
+0.85,0.08,0.51,Logistic regression
+0.85,0.09,0.54,Logistic regression
+0.85,0.1,0.57,Logistic regression
+0.85,0.11,0.6,Logistic regression
+0.85,0.12,0.63,Logistic regression
+0.85,0.13,0.63,Logistic regression
+0.85,0.14,0.64,Logistic regression
+0.85,0.15,0.67,Logistic regression
+0.85,0.16,0.7,Logistic regression
+0.85,0.17,0.7,Logistic regression
+0.85,0.18,0.71,Logistic regression
+0.85,0.19,0.74,Logistic regression
+0.85,0.2,0.74,Logistic regression
+0.85,0.21,0.74,Logistic regression
+0.85,0.22,0.74,Logistic regression
+0.85,0.23,0.78,Logistic regression
+0.85,0.24,0.78,Logistic regression
+0.85,0.25,0.79,Logistic regression
+0.85,0.26,0.79,Logistic regression
+0.85,0.27,0.8,Logistic regression
+0.85,0.28,0.81,Logistic regression
+0.85,0.29,0.81,Logistic regression
+0.85,0.3,0.81,Logistic regression
+0.9,0.05,0.38,Logistic regression
+0.9,0.06,0.42,Logistic regression
+0.9,0.07,0.47,Logistic regression
+0.9,0.08,0.5,Logistic regression
+0.9,0.09,0.54,Logistic regression
+0.9,0.1,0.56,Logistic regression
+0.9,0.11,0.58,Logistic regression
+0.9,0.12,0.6,Logistic regression
+0.9,0.13,0.63,Logistic regression
+0.9,0.14,0.63,Logistic regression
+0.9,0.15,0.64,Logistic regression
+0.9,0.16,0.67,Logistic regression
+0.9,0.17,0.7,Logistic regression
+0.9,0.18,0.7,Logistic regression
+0.9,0.19,0.71,Logistic regression
+0.9,0.2,0.73,Logistic regression
+0.9,0.21,0.74,Logistic regression
+0.9,0.22,0.74,Logistic regression
+0.9,0.23,0.74,Logistic regression
+0.9,0.24,0.77,Logistic regression
+0.9,0.25,0.78,Logistic regression
+0.9,0.26,0.79,Logistic regression
+0.9,0.27,0.79,Logistic regression
+0.9,0.28,0.8,Logistic regression
+0.9,0.29,0.8,Logistic regression
+0.9,0.3,0.81,Logistic regression
+0.2,0.05,0.76,Decision tree
+0.2,0.06,0.78,Decision tree
+0.2,0.07,0.81,Decision tree
+0.2,0.08,0.84,Decision tree
+0.2,0.09,0.86,Decision tree
+0.2,0.1,0.86,Decision tree
+0.2,0.11,0.86,Decision tree
+0.2,0.12,0.86,Decision tree
+0.2,0.13,0.86,Decision tree
+0.2,0.14,0.86,Decision tree
+0.2,0.15,0.86,Decision tree
+0.2,0.16,0.92,Decision tree
+0.2,0.17,0.92,Decision tree
+0.2,0.18,0.92,Decision tree
+0.2,0.19,0.92,Decision tree
+0.2,0.2,0.92,Decision tree
+0.2,0.21,0.92,Decision tree
+0.2,0.22,0.92,Decision tree
+0.2,0.23,0.92,Decision tree
+0.2,0.24,0.92,Decision tree
+0.2,0.25,0.92,Decision tree
+0.2,0.26,0.92,Decision tree
+0.2,0.27,0.92,Decision tree
+0.2,0.28,0.92,Decision tree
+0.2,0.29,0.92,Decision tree
+0.2,0.3,0.92,Decision tree
+0.25,0.05,0.7,Decision tree
+0.25,0.06,0.73,Decision tree
+0.25,0.07,0.76,Decision tree
+0.25,0.08,0.81,Decision tree
+0.25,0.09,0.81,Decision tree
+0.25,0.1,0.84,Decision tree
+0.25,0.11,0.86,Decision tree
+0.25,0.12,0.86,Decision tree
+0.25,0.13,0.86,Decision tree
+0.25,0.14,0.86,Decision tree
+0.25,0.15,0.86,Decision tree
+0.25,0.16,0.86,Decision tree
+0.25,0.17,0.86,Decision tree
+0.25,0.18,0.86,Decision tree
+0.25,0.19,0.91,Decision tree
+0.25,0.2,0.92,Decision tree
+0.25,0.21,0.92,Decision tree
+0.25,0.22,0.92,Decision tree
+0.25,0.23,0.92,Decision tree
+0.25,0.24,0.92,Decision tree
+0.25,0.25,0.92,Decision tree
+0.25,0.26,0.92,Decision tree
+0.25,0.27,0.92,Decision tree
+0.25,0.28,0.92,Decision tree
+0.25,0.29,0.92,Decision tree
+0.25,0.3,0.92,Decision tree
+0.3,0.05,0.67,Decision tree
+0.3,0.06,0.7,Decision tree
+0.3,0.07,0.73,Decision tree
+0.3,0.08,0.76,Decision tree
+0.3,0.09,0.78,Decision tree
+0.3,0.1,0.81,Decision tree
+0.3,0.11,0.81,Decision tree
+0.3,0.12,0.84,Decision tree
+0.3,0.13,0.86,Decision tree
+0.3,0.14,0.86,Decision tree
+0.3,0.15,0.86,Decision tree
+0.3,0.16,0.86,Decision tree
+0.3,0.17,0.86,Decision tree
+0.3,0.18,0.86,Decision tree
+0.3,0.19,0.86,Decision tree
+0.3,0.2,0.86,Decision tree
+0.3,0.21,0.86,Decision tree
+0.3,0.22,0.86,Decision tree
+0.3,0.23,0.91,Decision tree
+0.3,0.24,0.92,Decision tree
+0.3,0.25,0.92,Decision tree
+0.3,0.26,0.92,Decision tree
+0.3,0.27,0.92,Decision tree
+0.3,0.28,0.92,Decision tree
+0.3,0.29,0.92,Decision tree
+0.3,0.3,0.92,Decision tree
+0.35,0.05,0.65,Decision tree
+0.35,0.06,0.67,Decision tree
+0.35,0.07,0.7,Decision tree
+0.35,0.08,0.73,Decision tree
+0.35,0.09,0.76,Decision tree
+0.35,0.1,0.76,Decision tree
+0.35,0.11,0.78,Decision tree
+0.35,0.12,0.81,Decision tree
+0.35,0.13,0.81,Decision tree
+0.35,0.14,0.84,Decision tree
+0.35,0.15,0.84,Decision tree
+0.35,0.16,0.86,Decision tree
+0.35,0.17,0.86,Decision tree
+0.35,0.18,0.86,Decision tree
+0.35,0.19,0.86,Decision tree
+0.35,0.2,0.86,Decision tree
+0.35,0.21,0.86,Decision tree
+0.35,0.22,0.86,Decision tree
+0.35,0.23,0.86,Decision tree
+0.35,0.24,0.86,Decision tree
+0.35,0.25,0.86,Decision tree
+0.35,0.26,0.86,Decision tree
+0.35,0.27,0.92,Decision tree
+0.35,0.28,0.92,Decision tree
+0.35,0.29,0.92,Decision tree
+0.35,0.3,0.92,Decision tree
+0.4,0.05,0.61,Decision tree
+0.4,0.06,0.66,Decision tree
+0.4,0.07,0.67,Decision tree
+0.4,0.08,0.7,Decision tree
+0.4,0.09,0.73,Decision tree
+0.4,0.1,0.76,Decision tree
+0.4,0.11,0.76,Decision tree
+0.4,0.12,0.78,Decision tree
+0.4,0.13,0.81,Decision tree
+0.4,0.14,0.81,Decision tree
+0.4,0.15,0.81,Decision tree
+0.4,0.16,0.84,Decision tree
+0.4,0.17,0.84,Decision tree
+0.4,0.18,0.86,Decision tree
+0.4,0.19,0.86,Decision tree
+0.4,0.2,0.86,Decision tree
+0.4,0.21,0.86,Decision tree
+0.4,0.22,0.86,Decision tree
+0.4,0.23,0.86,Decision tree
+0.4,0.24,0.86,Decision tree
+0.4,0.25,0.86,Decision tree
+0.4,0.26,0.86,Decision tree
+0.4,0.27,0.86,Decision tree
+0.4,0.28,0.86,Decision tree
+0.4,0.29,0.86,Decision tree
+0.4,0.3,0.86,Decision tree
+0.45,0.05,0.56,Decision tree
+0.45,0.06,0.61,Decision tree
+0.45,0.07,0.66,Decision tree
+0.45,0.08,0.67,Decision tree
+0.45,0.09,0.7,Decision tree
+0.45,0.1,0.73,Decision tree
+0.45,0.11,0.73,Decision tree
+0.45,0.12,0.76,Decision tree
+0.45,0.13,0.78,Decision tree
+0.45,0.14,0.78,Decision tree
+0.45,0.15,0.81,Decision tree
+0.45,0.16,0.81,Decision tree
+0.45,0.17,0.81,Decision tree
+0.45,0.18,0.84,Decision tree
+0.45,0.19,0.84,Decision tree
+0.45,0.2,0.86,Decision tree
+0.45,0.21,0.86,Decision tree
+0.45,0.22,0.86,Decision tree
+0.45,0.23,0.86,Decision tree
+0.45,0.24,0.86,Decision tree
+0.45,0.25,0.86,Decision tree
+0.45,0.26,0.86,Decision tree
+0.45,0.27,0.86,Decision tree
+0.45,0.28,0.86,Decision tree
+0.45,0.29,0.86,Decision tree
+0.45,0.3,0.86,Decision tree
+0.5,0.05,0.52,Decision tree
+0.5,0.06,0.61,Decision tree
+0.5,0.07,0.65,Decision tree
+0.5,0.08,0.66,Decision tree
+0.5,0.09,0.67,Decision tree
+0.5,0.1,0.7,Decision tree
+0.5,0.11,0.73,Decision tree
+0.5,0.12,0.73,Decision tree
+0.5,0.13,0.76,Decision tree
+0.5,0.14,0.76,Decision tree
+0.5,0.15,0.78,Decision tree
+0.5,0.16,0.81,Decision tree
+0.5,0.17,0.81,Decision tree
+0.5,0.18,0.81,Decision tree
+0.5,0.19,0.81,Decision tree
+0.5,0.2,0.84,Decision tree
+0.5,0.21,0.84,Decision tree
+0.5,0.22,0.86,Decision tree
+0.5,0.23,0.86,Decision tree
+0.5,0.24,0.86,Decision tree
+0.5,0.25,0.86,Decision tree
+0.5,0.26,0.86,Decision tree
+0.5,0.27,0.86,Decision tree
+0.5,0.28,0.86,Decision tree
+0.5,0.29,0.86,Decision tree
+0.5,0.3,0.86,Decision tree
+0.55,0.05,0.5,Decision tree
+0.55,0.06,0.56,Decision tree
+0.55,0.07,0.61,Decision tree
+0.55,0.08,0.66,Decision tree
+0.55,0.09,0.66,Decision tree
+0.55,0.1,0.67,Decision tree
+0.55,0.11,0.7,Decision tree
+0.55,0.12,0.73,Decision tree
+0.55,0.13,0.73,Decision tree
+0.55,0.14,0.76,Decision tree
+0.55,0.15,0.76,Decision tree
+0.55,0.16,0.78,Decision tree
+0.55,0.17,0.78,Decision tree
+0.55,0.18,0.81,Decision tree
+0.55,0.19,0.81,Decision tree
+0.55,0.2,0.81,Decision tree
+0.55,0.21,0.84,Decision tree
+0.55,0.22,0.84,Decision tree
+0.55,0.23,0.84,Decision tree
+0.55,0.24,0.86,Decision tree
+0.55,0.25,0.86,Decision tree
+0.55,0.26,0.86,Decision tree
+0.55,0.27,0.86,Decision tree
+0.55,0.28,0.86,Decision tree
+0.55,0.29,0.86,Decision tree
+0.55,0.3,0.86,Decision tree
+0.6,0.05,0.48,Decision tree
+0.6,0.06,0.52,Decision tree
+0.6,0.07,0.56,Decision tree
+0.6,0.08,0.61,Decision tree
+0.6,0.09,0.66,Decision tree
+0.6,0.1,0.67,Decision tree
+0.6,0.11,0.67,Decision tree
+0.6,0.12,0.7,Decision tree
+0.6,0.13,0.73,Decision tree
+0.6,0.14,0.73,Decision tree
+0.6,0.15,0.76,Decision tree
+0.6,0.16,0.76,Decision tree
+0.6,0.17,0.76,Decision tree
+0.6,0.18,0.78,Decision tree
+0.6,0.19,0.81,Decision tree
+0.6,0.2,0.81,Decision tree
+0.6,0.21,0.81,Decision tree
+0.6,0.22,0.81,Decision tree
+0.6,0.23,0.84,Decision tree
+0.6,0.24,0.84,Decision tree
+0.6,0.25,0.84,Decision tree
+0.6,0.26,0.86,Decision tree
+0.6,0.27,0.86,Decision tree
+0.6,0.28,0.86,Decision tree
+0.6,0.29,0.86,Decision tree
+0.6,0.3,0.86,Decision tree
+0.65,0.05,0.47,Decision tree
+0.65,0.06,0.5,Decision tree
+0.65,0.07,0.56,Decision tree
+0.65,0.08,0.61,Decision tree
+0.65,0.09,0.65,Decision tree
+0.65,0.1,0.66,Decision tree
+0.65,0.11,0.67,Decision tree
+0.65,0.12,0.67,Decision tree
+0.65,0.13,0.7,Decision tree
+0.65,0.14,0.73,Decision tree
+0.65,0.15,0.73,Decision tree
+0.65,0.16,0.73,Decision tree
+0.65,0.17,0.76,Decision tree
+0.65,0.18,0.76,Decision tree
+0.65,0.19,0.78,Decision tree
+0.65,0.2,0.78,Decision tree
+0.65,0.21,0.81,Decision tree
+0.65,0.22,0.81,Decision tree
+0.65,0.23,0.81,Decision tree
+0.65,0.24,0.81,Decision tree
+0.65,0.25,0.84,Decision tree
+0.65,0.26,0.84,Decision tree
+0.65,0.27,0.84,Decision tree
+0.65,0.28,0.84,Decision tree
+0.65,0.29,0.86,Decision tree
+0.65,0.3,0.86,Decision tree
+0.7,0.05,0.43,Decision tree
+0.7,0.06,0.48,Decision tree
+0.7,0.07,0.52,Decision tree
+0.7,0.08,0.56,Decision tree
+0.7,0.09,0.61,Decision tree
+0.7,0.1,0.65,Decision tree
+0.7,0.11,0.66,Decision tree
+0.7,0.12,0.67,Decision tree
+0.7,0.13,0.68,Decision tree
+0.7,0.14,0.7,Decision tree
+0.7,0.15,0.73,Decision tree
+0.7,0.16,0.73,Decision tree
+0.7,0.17,0.73,Decision tree
+0.7,0.18,0.76,Decision tree
+0.7,0.19,0.76,Decision tree
+0.7,0.2,0.76,Decision tree
+0.7,0.21,0.78,Decision tree
+0.7,0.22,0.78,Decision tree
+0.7,0.23,0.81,Decision tree
+0.7,0.24,0.81,Decision tree
+0.7,0.25,0.81,Decision tree
+0.7,0.26,0.81,Decision tree
+0.7,0.27,0.84,Decision tree
+0.7,0.28,0.84,Decision tree
+0.7,0.29,0.84,Decision tree
+0.7,0.3,0.84,Decision tree
+0.75,0.05,0.42,Decision tree
+0.75,0.06,0.48,Decision tree
+0.75,0.07,0.5,Decision tree
+0.75,0.08,0.56,Decision tree
+0.75,0.09,0.61,Decision tree
+0.75,0.1,0.61,Decision tree
+0.75,0.11,0.66,Decision tree
+0.75,0.12,0.66,Decision tree
+0.75,0.13,0.67,Decision tree
+0.75,0.14,0.68,Decision tree
+0.75,0.15,0.7,Decision tree
+0.75,0.16,0.73,Decision tree
+0.75,0.17,0.73,Decision tree
+0.75,0.18,0.73,Decision tree
+0.75,0.19,0.76,Decision tree
+0.75,0.2,0.76,Decision tree
+0.75,0.21,0.76,Decision tree
+0.75,0.22,0.78,Decision tree
+0.75,0.23,0.78,Decision tree
+0.75,0.24,0.81,Decision tree
+0.75,0.25,0.81,Decision tree
+0.75,0.26,0.81,Decision tree
+0.75,0.27,0.81,Decision tree
+0.75,0.28,0.81,Decision tree
+0.75,0.29,0.84,Decision tree
+0.75,0.3,0.84,Decision tree
+0.8,0.05,0.39,Decision tree
+0.8,0.06,0.47,Decision tree
+0.8,0.07,0.5,Decision tree
+0.8,0.08,0.52,Decision tree
+0.8,0.09,0.56,Decision tree
+0.8,0.1,0.61,Decision tree
+0.8,0.11,0.65,Decision tree
+0.8,0.12,0.66,Decision tree
+0.8,0.13,0.66,Decision tree
+0.8,0.14,0.67,Decision tree
+0.8,0.15,0.68,Decision tree
+0.8,0.16,0.7,Decision tree
+0.8,0.17,0.73,Decision tree
+0.8,0.18,0.73,Decision tree
+0.8,0.19,0.73,Decision tree
+0.8,0.2,0.76,Decision tree
+0.8,0.21,0.76,Decision tree
+0.8,0.22,0.76,Decision tree
+0.8,0.23,0.78,Decision tree
+0.8,0.24,0.78,Decision tree
+0.8,0.25,0.78,Decision tree
+0.8,0.26,0.81,Decision tree
+0.8,0.27,0.81,Decision tree
+0.8,0.28,0.81,Decision tree
+0.8,0.29,0.81,Decision tree
+0.8,0.3,0.81,Decision tree
+0.85,0.05,0.36,Decision tree
+0.85,0.06,0.43,Decision tree
+0.85,0.07,0.48,Decision tree
+0.85,0.08,0.5,Decision tree
+0.85,0.09,0.56,Decision tree
+0.85,0.1,0.56,Decision tree
+0.85,0.11,0.61,Decision tree
+0.85,0.12,0.65,Decision tree
+0.85,0.13,0.66,Decision tree
+0.85,0.14,0.66,Decision tree
+0.85,0.15,0.67,Decision tree
+0.85,0.16,0.68,Decision tree
+0.85,0.17,0.7,Decision tree
+0.85,0.18,0.73,Decision tree
+0.85,0.19,0.73,Decision tree
+0.85,0.2,0.73,Decision tree
+0.85,0.21,0.73,Decision tree
+0.85,0.22,0.76,Decision tree
+0.85,0.23,0.76,Decision tree
+0.85,0.24,0.76,Decision tree
+0.85,0.25,0.78,Decision tree
+0.85,0.26,0.78,Decision tree
+0.85,0.27,0.81,Decision tree
+0.85,0.28,0.81,Decision tree
+0.85,0.29,0.81,Decision tree
+0.85,0.3,0.81,Decision tree
+0.9,0.05,0.36,Decision tree
+0.9,0.06,0.42,Decision tree
+0.9,0.07,0.47,Decision tree
+0.9,0.08,0.5,Decision tree
+0.9,0.09,0.52,Decision tree
+0.9,0.1,0.56,Decision tree
+0.9,0.11,0.61,Decision tree
+0.9,0.12,0.61,Decision tree
+0.9,0.13,0.66,Decision tree
+0.9,0.14,0.66,Decision tree
+0.9,0.15,0.67,Decision tree
+0.9,0.16,0.67,Decision tree
+0.9,0.17,0.68,Decision tree
+0.9,0.18,0.7,Decision tree
+0.9,0.19,0.73,Decision tree
+0.9,0.2,0.73,Decision tree
+0.9,0.21,0.73,Decision tree
+0.9,0.22,0.73,Decision tree
+0.9,0.23,0.76,Decision tree
+0.9,0.24,0.76,Decision tree
+0.9,0.25,0.76,Decision tree
+0.9,0.26,0.78,Decision tree
+0.9,0.27,0.78,Decision tree
+0.9,0.28,0.78,Decision tree
+0.9,0.29,0.81,Decision tree
+0.9,0.3,0.81,Decision tree
+0.2,0.05,0.52,Random forest
+0.2,0.06,0.58,Random forest
+0.2,0.07,0.6,Random forest
+0.2,0.08,0.65,Random forest
+0.2,0.09,0.67,Random forest
+0.2,0.1,0.68,Random forest
+0.2,0.11,0.73,Random forest
+0.2,0.12,0.73,Random forest
+0.2,0.13,0.75,Random forest
+0.2,0.14,0.75,Random forest
+0.2,0.15,0.77,Random forest
+0.2,0.16,0.77,Random forest
+0.2,0.17,0.78,Random forest
+0.2,0.18,0.78,Random forest
+0.2,0.19,0.79,Random forest
+0.2,0.2,0.84,Random forest
+0.2,0.21,0.84,Random forest
+0.2,0.22,0.84,Random forest
+0.2,0.23,0.84,Random forest
+0.2,0.24,0.84,Random forest
+0.2,0.25,0.86,Random forest
+0.2,0.26,0.86,Random forest
+0.2,0.27,0.88,Random forest
+0.2,0.28,0.88,Random forest
+0.2,0.29,0.88,Random forest
+0.2,0.3,0.88,Random forest
+0.25,0.05,0.44,Random forest
+0.25,0.06,0.51,Random forest
+0.25,0.07,0.58,Random forest
+0.25,0.08,0.59,Random forest
+0.25,0.09,0.61,Random forest
+0.25,0.1,0.65,Random forest
+0.25,0.11,0.67,Random forest
+0.25,0.12,0.68,Random forest
+0.25,0.13,0.7,Random forest
+0.25,0.14,0.73,Random forest
+0.25,0.15,0.73,Random forest
+0.25,0.16,0.75,Random forest
+0.25,0.17,0.75,Random forest
+0.25,0.18,0.75,Random forest
+0.25,0.19,0.77,Random forest
+0.25,0.2,0.77,Random forest
+0.25,0.21,0.77,Random forest
+0.25,0.22,0.78,Random forest
+0.25,0.23,0.79,Random forest
+0.25,0.24,0.79,Random forest
+0.25,0.25,0.84,Random forest
+0.25,0.26,0.84,Random forest
+0.25,0.27,0.84,Random forest
+0.25,0.28,0.84,Random forest
+0.25,0.29,0.84,Random forest
+0.25,0.3,0.84,Random forest
+0.3,0.05,0.42,Random forest
+0.3,0.06,0.44,Random forest
+0.3,0.07,0.49,Random forest
+0.3,0.08,0.58,Random forest
+0.3,0.09,0.58,Random forest
+0.3,0.1,0.6,Random forest
+0.3,0.11,0.63,Random forest
+0.3,0.12,0.65,Random forest
+0.3,0.13,0.67,Random forest
+0.3,0.14,0.68,Random forest
+0.3,0.15,0.68,Random forest
+0.3,0.16,0.7,Random forest
+0.3,0.17,0.73,Random forest
+0.3,0.18,0.73,Random forest
+0.3,0.19,0.75,Random forest
+0.3,0.2,0.75,Random forest
+0.3,0.21,0.75,Random forest
+0.3,0.22,0.76,Random forest
+0.3,0.23,0.77,Random forest
+0.3,0.24,0.77,Random forest
+0.3,0.25,0.77,Random forest
+0.3,0.26,0.78,Random forest
+0.3,0.27,0.78,Random forest
+0.3,0.28,0.79,Random forest
+0.3,0.29,0.79,Random forest
+0.3,0.3,0.84,Random forest
+0.35,0.05,0.38,Random forest
+0.35,0.06,0.42,Random forest
+0.35,0.07,0.44,Random forest
+0.35,0.08,0.49,Random forest
+0.35,0.09,0.52,Random forest
+0.35,0.1,0.58,Random forest
+0.35,0.11,0.59,Random forest
+0.35,0.12,0.6,Random forest
+0.35,0.13,0.63,Random forest
+0.35,0.14,0.65,Random forest
+0.35,0.15,0.67,Random forest
+0.35,0.16,0.67,Random forest
+0.35,0.17,0.68,Random forest
+0.35,0.18,0.68,Random forest
+0.35,0.19,0.7,Random forest
+0.35,0.2,0.73,Random forest
+0.35,0.21,0.73,Random forest
+0.35,0.22,0.75,Random forest
+0.35,0.23,0.75,Random forest
+0.35,0.24,0.75,Random forest
+0.35,0.25,0.75,Random forest
+0.35,0.26,0.76,Random forest
+0.35,0.27,0.77,Random forest
+0.35,0.28,0.77,Random forest
+0.35,0.29,0.77,Random forest
+0.35,0.3,0.78,Random forest
+0.4,0.05,0.36,Random forest
+0.4,0.06,0.38,Random forest
+0.4,0.07,0.42,Random forest
+0.4,0.08,0.44,Random forest
+0.4,0.09,0.49,Random forest
+0.4,0.1,0.52,Random forest
+0.4,0.11,0.58,Random forest
+0.4,0.12,0.58,Random forest
+0.4,0.13,0.59,Random forest
+0.4,0.14,0.6,Random forest
+0.4,0.15,0.64,Random forest
+0.4,0.16,0.65,Random forest
+0.4,0.17,0.67,Random forest
+0.4,0.18,0.67,Random forest
+0.4,0.19,0.68,Random forest
+0.4,0.2,0.68,Random forest
+0.4,0.21,0.7,Random forest
+0.4,0.22,0.73,Random forest
+0.4,0.23,0.73,Random forest
+0.4,0.24,0.73,Random forest
+0.4,0.25,0.75,Random forest
+0.4,0.26,0.75,Random forest
+0.4,0.27,0.75,Random forest
+0.4,0.28,0.75,Random forest
+0.4,0.29,0.76,Random forest
+0.4,0.3,0.77,Random forest
+0.45,0.05,0.32,Random forest
+0.45,0.06,0.36,Random forest
+0.45,0.07,0.41,Random forest
+0.45,0.08,0.43,Random forest
+0.45,0.09,0.44,Random forest
+0.45,0.1,0.49,Random forest
+0.45,0.11,0.52,Random forest
+0.45,0.12,0.58,Random forest
+0.45,0.13,0.58,Random forest
+0.45,0.14,0.59,Random forest
+0.45,0.15,0.6,Random forest
+0.45,0.16,0.6,Random forest
+0.45,0.17,0.64,Random forest
+0.45,0.18,0.65,Random forest
+0.45,0.19,0.67,Random forest
+0.45,0.2,0.67,Random forest
+0.45,0.21,0.68,Random forest
+0.45,0.22,0.68,Random forest
+0.45,0.23,0.68,Random forest
+0.45,0.24,0.7,Random forest
+0.45,0.25,0.73,Random forest
+0.45,0.26,0.73,Random forest
+0.45,0.27,0.73,Random forest
+0.45,0.28,0.75,Random forest
+0.45,0.29,0.75,Random forest
+0.45,0.3,0.75,Random forest
+0.5,0.05,0.29,Random forest
+0.5,0.06,0.34,Random forest
+0.5,0.07,0.38,Random forest
+0.5,0.08,0.41,Random forest
+0.5,0.09,0.43,Random forest
+0.5,0.1,0.44,Random forest
+0.5,0.11,0.49,Random forest
+0.5,0.12,0.51,Random forest
+0.5,0.13,0.55,Random forest
+0.5,0.14,0.58,Random forest
+0.5,0.15,0.58,Random forest
+0.5,0.16,0.59,Random forest
+0.5,0.17,0.6,Random forest
+0.5,0.18,0.61,Random forest
+0.5,0.19,0.64,Random forest
+0.5,0.2,0.65,Random forest
+0.5,0.21,0.67,Random forest
+0.5,0.22,0.67,Random forest
+0.5,0.23,0.67,Random forest
+0.5,0.24,0.68,Random forest
+0.5,0.25,0.68,Random forest
+0.5,0.26,0.7,Random forest
+0.5,0.27,0.7,Random forest
+0.5,0.28,0.73,Random forest
+0.5,0.29,0.73,Random forest
+0.5,0.3,0.73,Random forest
+0.55,0.05,0.28,Random forest
+0.55,0.06,0.32,Random forest
+0.55,0.07,0.36,Random forest
+0.55,0.08,0.38,Random forest
+0.55,0.09,0.41,Random forest
+0.55,0.1,0.43,Random forest
+0.55,0.11,0.44,Random forest
+0.55,0.12,0.49,Random forest
+0.55,0.13,0.49,Random forest
+0.55,0.14,0.52,Random forest
+0.55,0.15,0.58,Random forest
+0.55,0.16,0.58,Random forest
+0.55,0.17,0.59,Random forest
+0.55,0.18,0.6,Random forest
+0.55,0.19,0.6,Random forest
+0.55,0.2,0.63,Random forest
+0.55,0.21,0.64,Random forest
+0.55,0.22,0.65,Random forest
+0.55,0.23,0.67,Random forest
+0.55,0.24,0.67,Random forest
+0.55,0.25,0.67,Random forest
+0.55,0.26,0.68,Random forest
+0.55,0.27,0.68,Random forest
+0.55,0.28,0.68,Random forest
+0.55,0.29,0.7,Random forest
+0.55,0.3,0.7,Random forest
+0.6,0.05,0.28,Random forest
+0.6,0.06,0.29,Random forest
+0.6,0.07,0.34,Random forest
+0.6,0.08,0.36,Random forest
+0.6,0.09,0.38,Random forest
+0.6,0.1,0.42,Random forest
+0.6,0.11,0.43,Random forest
+0.6,0.12,0.44,Random forest
+0.6,0.13,0.49,Random forest
+0.6,0.14,0.49,Random forest
+0.6,0.15,0.52,Random forest
+0.6,0.16,0.58,Random forest
+0.6,0.17,0.58,Random forest
+0.6,0.18,0.58,Random forest
+0.6,0.19,0.59,Random forest
+0.6,0.2,0.6,Random forest
+0.6,0.21,0.6,Random forest
+0.6,0.22,0.63,Random forest
+0.6,0.23,0.64,Random forest
+0.6,0.24,0.65,Random forest
+0.6,0.25,0.67,Random forest
+0.6,0.26,0.67,Random forest
+0.6,0.27,0.67,Random forest
+0.6,0.28,0.68,Random forest
+0.6,0.29,0.68,Random forest
+0.6,0.3,0.68,Random forest
+0.65,0.05,0.26,Random forest
+0.65,0.06,0.29,Random forest
+0.65,0.07,0.32,Random forest
+0.65,0.08,0.36,Random forest
+0.65,0.09,0.38,Random forest
+0.65,0.1,0.41,Random forest
+0.65,0.11,0.42,Random forest
+0.65,0.12,0.43,Random forest
+0.65,0.13,0.44,Random forest
+0.65,0.14,0.49,Random forest
+0.65,0.15,0.49,Random forest
+0.65,0.16,0.52,Random forest
+0.65,0.17,0.56,Random forest
+0.65,0.18,0.58,Random forest
+0.65,0.19,0.58,Random forest
+0.65,0.2,0.59,Random forest
+0.65,0.21,0.59,Random forest
+0.65,0.22,0.6,Random forest
+0.65,0.23,0.6,Random forest
+0.65,0.24,0.63,Random forest
+0.65,0.25,0.64,Random forest
+0.65,0.26,0.65,Random forest
+0.65,0.27,0.67,Random forest
+0.65,0.28,0.67,Random forest
+0.65,0.29,0.67,Random forest
+0.65,0.3,0.68,Random forest
+0.7,0.05,0.25,Random forest
+0.7,0.06,0.28,Random forest
+0.7,0.07,0.29,Random forest
+0.7,0.08,0.33,Random forest
+0.7,0.09,0.36,Random forest
+0.7,0.1,0.38,Random forest
+0.7,0.11,0.41,Random forest
+0.7,0.12,0.42,Random forest
+0.7,0.13,0.43,Random forest
+0.7,0.14,0.44,Random forest
+0.7,0.15,0.49,Random forest
+0.7,0.16,0.49,Random forest
+0.7,0.17,0.52,Random forest
+0.7,0.18,0.52,Random forest
+0.7,0.19,0.58,Random forest
+0.7,0.2,0.58,Random forest
+0.7,0.21,0.58,Random forest
+0.7,0.22,0.59,Random forest
+0.7,0.23,0.6,Random forest
+0.7,0.24,0.6,Random forest
+0.7,0.25,0.6,Random forest
+0.7,0.26,0.63,Random forest
+0.7,0.27,0.64,Random forest
+0.7,0.28,0.65,Random forest
+0.7,0.29,0.67,Random forest
+0.7,0.3,0.67,Random forest
+0.75,0.05,0.24,Random forest
+0.75,0.06,0.28,Random forest
+0.75,0.07,0.29,Random forest
+0.75,0.08,0.32,Random forest
+0.75,0.09,0.34,Random forest
+0.75,0.1,0.36,Random forest
+0.75,0.11,0.38,Random forest
+0.75,0.12,0.41,Random forest
+0.75,0.13,0.42,Random forest
+0.75,0.14,0.43,Random forest
+0.75,0.15,0.44,Random forest
+0.75,0.16,0.49,Random forest
+0.75,0.17,0.49,Random forest
+0.75,0.18,0.51,Random forest
+0.75,0.19,0.52,Random forest
+0.75,0.2,0.58,Random forest
+0.75,0.21,0.58,Random forest
+0.75,0.22,0.58,Random forest
+0.75,0.23,0.59,Random forest
+0.75,0.24,0.59,Random forest
+0.75,0.25,0.6,Random forest
+0.75,0.26,0.6,Random forest
+0.75,0.27,0.61,Random forest
+0.75,0.28,0.64,Random forest
+0.75,0.29,0.64,Random forest
+0.75,0.3,0.65,Random forest
+0.8,0.05,0.23,Random forest
+0.8,0.06,0.26,Random forest
+0.8,0.07,0.28,Random forest
+0.8,0.08,0.29,Random forest
+0.8,0.09,0.32,Random forest
+0.8,0.1,0.36,Random forest
+0.8,0.11,0.36,Random forest
+0.8,0.12,0.38,Random forest
+0.8,0.13,0.41,Random forest
+0.8,0.14,0.42,Random forest
+0.8,0.15,0.43,Random forest
+0.8,0.16,0.44,Random forest
+0.8,0.17,0.49,Random forest
+0.8,0.18,0.49,Random forest
+0.8,0.19,0.51,Random forest
+0.8,0.2,0.52,Random forest
+0.8,0.21,0.56,Random forest
+0.8,0.22,0.58,Random forest
+0.8,0.23,0.58,Random forest
+0.8,0.24,0.58,Random forest
+0.8,0.25,0.59,Random forest
+0.8,0.26,0.59,Random forest
+0.8,0.27,0.6,Random forest
+0.8,0.28,0.6,Random forest
+0.8,0.29,0.63,Random forest
+0.8,0.3,0.64,Random forest
+0.85,0.05,0.22,Random forest
+0.85,0.06,0.25,Random forest
+0.85,0.07,0.28,Random forest
+0.85,0.08,0.29,Random forest
+0.85,0.09,0.31,Random forest
+0.85,0.1,0.34,Random forest
+0.85,0.11,0.36,Random forest
+0.85,0.12,0.38,Random forest
+0.85,0.13,0.41,Random forest
+0.85,0.14,0.42,Random forest
+0.85,0.15,0.43,Random forest
+0.85,0.16,0.43,Random forest
+0.85,0.17,0.44,Random forest
+0.85,0.18,0.49,Random forest
+0.85,0.19,0.49,Random forest
+0.85,0.2,0.49,Random forest
+0.85,0.21,0.52,Random forest
+0.85,0.22,0.55,Random forest
+0.85,0.23,0.58,Random forest
+0.85,0.24,0.58,Random forest
+0.85,0.25,0.58,Random forest
+0.85,0.26,0.59,Random forest
+0.85,0.27,0.59,Random forest
+0.85,0.28,0.6,Random forest
+0.85,0.29,0.6,Random forest
+0.85,0.3,0.6,Random forest
+0.9,0.05,0.21,Random forest
+0.9,0.06,0.24,Random forest
+0.9,0.07,0.26,Random forest
+0.9,0.08,0.28,Random forest
+0.9,0.09,0.29,Random forest
+0.9,0.1,0.32,Random forest
+0.9,0.11,0.34,Random forest
+0.9,0.12,0.36,Random forest
+0.9,0.13,0.38,Random forest
+0.9,0.14,0.41,Random forest
+0.9,0.15,0.42,Random forest
+0.9,0.16,0.43,Random forest
+0.9,0.17,0.43,Random forest
+0.9,0.18,0.44,Random forest
+0.9,0.19,0.49,Random forest
+0.9,0.2,0.49,Random forest
+0.9,0.21,0.49,Random forest
+0.9,0.22,0.52,Random forest
+0.9,0.23,0.52,Random forest
+0.9,0.24,0.58,Random forest
+0.9,0.25,0.58,Random forest
+0.9,0.26,0.58,Random forest
+0.9,0.27,0.58,Random forest
+0.9,0.28,0.59,Random forest
+0.9,0.29,0.59,Random forest
+0.9,0.3,0.6,Random forest
+0.2,0.05,0.7,XGBoost
+0.2,0.06,0.75,XGBoost
+0.2,0.07,0.77,XGBoost
+0.2,0.08,0.79,XGBoost
+0.2,0.09,0.8,XGBoost
+0.2,0.1,0.82,XGBoost
+0.2,0.11,0.84,XGBoost
+0.2,0.12,0.85,XGBoost
+0.2,0.13,0.86,XGBoost
+0.2,0.14,0.88,XGBoost
+0.2,0.15,0.88,XGBoost
+0.2,0.16,0.88,XGBoost
+0.2,0.17,0.89,XGBoost
+0.2,0.18,0.89,XGBoost
+0.2,0.19,0.89,XGBoost
+0.2,0.2,0.89,XGBoost
+0.2,0.21,0.9,XGBoost
+0.2,0.22,0.9,XGBoost
+0.2,0.23,0.9,XGBoost
+0.2,0.24,0.9,XGBoost
+0.2,0.25,0.9,XGBoost
+0.2,0.26,0.9,XGBoost
+0.2,0.27,0.9,XGBoost
+0.2,0.28,0.93,XGBoost
+0.2,0.29,0.93,XGBoost
+0.2,0.3,0.93,XGBoost
+0.25,0.05,0.66,XGBoost
+0.25,0.06,0.7,XGBoost
+0.25,0.07,0.71,XGBoost
+0.25,0.08,0.75,XGBoost
+0.25,0.09,0.77,XGBoost
+0.25,0.1,0.79,XGBoost
+0.25,0.11,0.8,XGBoost
+0.25,0.12,0.82,XGBoost
+0.25,0.13,0.82,XGBoost
+0.25,0.14,0.84,XGBoost
+0.25,0.15,0.85,XGBoost
+0.25,0.16,0.86,XGBoost
+0.25,0.17,0.86,XGBoost
+0.25,0.18,0.88,XGBoost
+0.25,0.19,0.88,XGBoost
+0.25,0.2,0.88,XGBoost
+0.25,0.21,0.89,XGBoost
+0.25,0.22,0.89,XGBoost
+0.25,0.23,0.89,XGBoost
+0.25,0.24,0.89,XGBoost
+0.25,0.25,0.89,XGBoost
+0.25,0.26,0.9,XGBoost
+0.25,0.27,0.9,XGBoost
+0.25,0.28,0.9,XGBoost
+0.25,0.29,0.9,XGBoost
+0.25,0.3,0.9,XGBoost
+0.3,0.05,0.6,XGBoost
+0.3,0.06,0.66,XGBoost
+0.3,0.07,0.7,XGBoost
+0.3,0.08,0.71,XGBoost
+0.3,0.09,0.75,XGBoost
+0.3,0.1,0.75,XGBoost
+0.3,0.11,0.77,XGBoost
+0.3,0.12,0.79,XGBoost
+0.3,0.13,0.8,XGBoost
+0.3,0.14,0.8,XGBoost
+0.3,0.15,0.82,XGBoost
+0.3,0.16,0.83,XGBoost
+0.3,0.17,0.85,XGBoost
+0.3,0.18,0.85,XGBoost
+0.3,0.19,0.86,XGBoost
+0.3,0.2,0.86,XGBoost
+0.3,0.21,0.88,XGBoost
+0.3,0.22,0.88,XGBoost
+0.3,0.23,0.88,XGBoost
+0.3,0.24,0.88,XGBoost
+0.3,0.25,0.89,XGBoost
+0.3,0.26,0.89,XGBoost
+0.3,0.27,0.89,XGBoost
+0.3,0.28,0.89,XGBoost
+0.3,0.29,0.89,XGBoost
+0.3,0.3,0.89,XGBoost
+0.35,0.05,0.56,XGBoost
+0.35,0.06,0.62,XGBoost
+0.35,0.07,0.66,XGBoost
+0.35,0.08,0.7,XGBoost
+0.35,0.09,0.71,XGBoost
+0.35,0.1,0.75,XGBoost
+0.35,0.11,0.75,XGBoost
+0.35,0.12,0.77,XGBoost
+0.35,0.13,0.77,XGBoost
+0.35,0.14,0.79,XGBoost
+0.35,0.15,0.8,XGBoost
+0.35,0.16,0.8,XGBoost
+0.35,0.17,0.82,XGBoost
+0.35,0.18,0.82,XGBoost
+0.35,0.19,0.83,XGBoost
+0.35,0.2,0.85,XGBoost
+0.35,0.21,0.85,XGBoost
+0.35,0.22,0.86,XGBoost
+0.35,0.23,0.86,XGBoost
+0.35,0.24,0.86,XGBoost
+0.35,0.25,0.88,XGBoost
+0.35,0.26,0.88,XGBoost
+0.35,0.27,0.88,XGBoost
+0.35,0.28,0.88,XGBoost
+0.35,0.29,0.88,XGBoost
+0.35,0.3,0.89,XGBoost
+0.4,0.05,0.55,XGBoost
+0.4,0.06,0.6,XGBoost
+0.4,0.07,0.62,XGBoost
+0.4,0.08,0.66,XGBoost
+0.4,0.09,0.7,XGBoost
+0.4,0.1,0.7,XGBoost
+0.4,0.11,0.71,XGBoost
+0.4,0.12,0.75,XGBoost
+0.4,0.13,0.75,XGBoost
+0.4,0.14,0.77,XGBoost
+0.4,0.15,0.77,XGBoost
+0.4,0.16,0.79,XGBoost
+0.4,0.17,0.8,XGBoost
+0.4,0.18,0.8,XGBoost
+0.4,0.19,0.82,XGBoost
+0.4,0.2,0.82,XGBoost
+0.4,0.21,0.82,XGBoost
+0.4,0.22,0.84,XGBoost
+0.4,0.23,0.85,XGBoost
+0.4,0.24,0.85,XGBoost
+0.4,0.25,0.86,XGBoost
+0.4,0.26,0.86,XGBoost
+0.4,0.27,0.86,XGBoost
+0.4,0.28,0.88,XGBoost
+0.4,0.29,0.88,XGBoost
+0.4,0.3,0.88,XGBoost
+0.45,0.05,0.48,XGBoost
+0.45,0.06,0.55,XGBoost
+0.45,0.07,0.6,XGBoost
+0.45,0.08,0.62,XGBoost
+0.45,0.09,0.66,XGBoost
+0.45,0.1,0.67,XGBoost
+0.45,0.11,0.7,XGBoost
+0.45,0.12,0.71,XGBoost
+0.45,0.13,0.75,XGBoost
+0.45,0.14,0.75,XGBoost
+0.45,0.15,0.75,XGBoost
+0.45,0.16,0.77,XGBoost
+0.45,0.17,0.79,XGBoost
+0.45,0.18,0.79,XGBoost
+0.45,0.19,0.8,XGBoost
+0.45,0.2,0.8,XGBoost
+0.45,0.21,0.8,XGBoost
+0.45,0.22,0.82,XGBoost
+0.45,0.23,0.82,XGBoost
+0.45,0.24,0.83,XGBoost
+0.45,0.25,0.84,XGBoost
+0.45,0.26,0.85,XGBoost
+0.45,0.27,0.85,XGBoost
+0.45,0.28,0.86,XGBoost
+0.45,0.29,0.86,XGBoost
+0.45,0.3,0.86,XGBoost
+0.5,0.05,0.48,XGBoost
+0.5,0.06,0.52,XGBoost
+0.5,0.07,0.56,XGBoost
+0.5,0.08,0.6,XGBoost
+0.5,0.09,0.62,XGBoost
+0.5,0.1,0.66,XGBoost
+0.5,0.11,0.67,XGBoost
+0.5,0.12,0.7,XGBoost
+0.5,0.13,0.71,XGBoost
+0.5,0.14,0.71,XGBoost
+0.5,0.15,0.75,XGBoost
+0.5,0.16,0.75,XGBoost
+0.5,0.17,0.77,XGBoost
+0.5,0.18,0.77,XGBoost
+0.5,0.19,0.79,XGBoost
+0.5,0.2,0.79,XGBoost
+0.5,0.21,0.8,XGBoost
+0.5,0.22,0.8,XGBoost
+0.5,0.23,0.8,XGBoost
+0.5,0.24,0.82,XGBoost
+0.5,0.25,0.82,XGBoost
+0.5,0.26,0.82,XGBoost
+0.5,0.27,0.83,XGBoost
+0.5,0.28,0.84,XGBoost
+0.5,0.29,0.85,XGBoost
+0.5,0.3,0.85,XGBoost
+0.55,0.05,0.43,XGBoost
+0.55,0.06,0.48,XGBoost
+0.55,0.07,0.55,XGBoost
+0.55,0.08,0.56,XGBoost
+0.55,0.09,0.6,XGBoost
+0.55,0.1,0.62,XGBoost
+0.55,0.11,0.66,XGBoost
+0.55,0.12,0.67,XGBoost
+0.55,0.13,0.7,XGBoost
+0.55,0.14,0.71,XGBoost
+0.55,0.15,0.71,XGBoost
+0.55,0.16,0.75,XGBoost
+0.55,0.17,0.75,XGBoost
+0.55,0.18,0.75,XGBoost
+0.55,0.19,0.77,XGBoost
+0.55,0.2,0.77,XGBoost
+0.55,0.21,0.79,XGBoost
+0.55,0.22,0.79,XGBoost
+0.55,0.23,0.8,XGBoost
+0.55,0.24,0.8,XGBoost
+0.55,0.25,0.8,XGBoost
+0.55,0.26,0.8,XGBoost
+0.55,0.27,0.82,XGBoost
+0.55,0.28,0.82,XGBoost
+0.55,0.29,0.82,XGBoost
+0.55,0.3,0.84,XGBoost
+0.6,0.05,0.43,XGBoost
+0.6,0.06,0.48,XGBoost
+0.6,0.07,0.52,XGBoost
+0.6,0.08,0.55,XGBoost
+0.6,0.09,0.6,XGBoost
+0.6,0.1,0.6,XGBoost
+0.6,0.11,0.62,XGBoost
+0.6,0.12,0.66,XGBoost
+0.6,0.13,0.67,XGBoost
+0.6,0.14,0.7,XGBoost
+0.6,0.15,0.7,XGBoost
+0.6,0.16,0.71,XGBoost
+0.6,0.17,0.71,XGBoost
+0.6,0.18,0.75,XGBoost
+0.6,0.19,0.75,XGBoost
+0.6,0.2,0.75,XGBoost
+0.6,0.21,0.77,XGBoost
+0.6,0.22,0.77,XGBoost
+0.6,0.23,0.79,XGBoost
+0.6,0.24,0.79,XGBoost
+0.6,0.25,0.8,XGBoost
+0.6,0.26,0.8,XGBoost
+0.6,0.27,0.8,XGBoost
+0.6,0.28,0.8,XGBoost
+0.6,0.29,0.82,XGBoost
+0.6,0.3,0.82,XGBoost
+0.65,0.05,0.4,XGBoost
+0.65,0.06,0.43,XGBoost
+0.65,0.07,0.48,XGBoost
+0.65,0.08,0.55,XGBoost
+0.65,0.09,0.56,XGBoost
+0.65,0.1,0.6,XGBoost
+0.65,0.11,0.6,XGBoost
+0.65,0.12,0.62,XGBoost
+0.65,0.13,0.66,XGBoost
+0.65,0.14,0.66,XGBoost
+0.65,0.15,0.7,XGBoost
+0.65,0.16,0.7,XGBoost
+0.65,0.17,0.71,XGBoost
+0.65,0.18,0.71,XGBoost
+0.65,0.19,0.75,XGBoost
+0.65,0.2,0.75,XGBoost
+0.65,0.21,0.75,XGBoost
+0.65,0.22,0.77,XGBoost
+0.65,0.23,0.77,XGBoost
+0.65,0.24,0.77,XGBoost
+0.65,0.25,0.79,XGBoost
+0.65,0.26,0.79,XGBoost
+0.65,0.27,0.8,XGBoost
+0.65,0.28,0.8,XGBoost
+0.65,0.29,0.8,XGBoost
+0.65,0.3,0.8,XGBoost
+0.7,0.05,0.4,XGBoost
+0.7,0.06,0.43,XGBoost
+0.7,0.07,0.48,XGBoost
+0.7,0.08,0.51,XGBoost
+0.7,0.09,0.55,XGBoost
+0.7,0.1,0.56,XGBoost
+0.7,0.11,0.6,XGBoost
+0.7,0.12,0.62,XGBoost
+0.7,0.13,0.62,XGBoost
+0.7,0.14,0.66,XGBoost
+0.7,0.15,0.66,XGBoost
+0.7,0.16,0.7,XGBoost
+0.7,0.17,0.7,XGBoost
+0.7,0.18,0.71,XGBoost
+0.7,0.19,0.71,XGBoost
+0.7,0.2,0.75,XGBoost
+0.7,0.21,0.75,XGBoost
+0.7,0.22,0.75,XGBoost
+0.7,0.23,0.75,XGBoost
+0.7,0.24,0.77,XGBoost
+0.7,0.25,0.77,XGBoost
+0.7,0.26,0.77,XGBoost
+0.7,0.27,0.79,XGBoost
+0.7,0.28,0.79,XGBoost
+0.7,0.29,0.8,XGBoost
+0.7,0.3,0.8,XGBoost
+0.75,0.05,0.38,XGBoost
+0.75,0.06,0.4,XGBoost
+0.75,0.07,0.43,XGBoost
+0.75,0.08,0.48,XGBoost
+0.75,0.09,0.52,XGBoost
+0.75,0.1,0.55,XGBoost
+0.75,0.11,0.58,XGBoost
+0.75,0.12,0.6,XGBoost
+0.75,0.13,0.62,XGBoost
+0.75,0.14,0.62,XGBoost
+0.75,0.15,0.66,XGBoost
+0.75,0.16,0.66,XGBoost
+0.75,0.17,0.7,XGBoost
+0.75,0.18,0.7,XGBoost
+0.75,0.19,0.7,XGBoost
+0.75,0.2,0.71,XGBoost
+0.75,0.21,0.71,XGBoost
+0.75,0.22,0.75,XGBoost
+0.75,0.23,0.75,XGBoost
+0.75,0.24,0.75,XGBoost
+0.75,0.25,0.75,XGBoost
+0.75,0.26,0.77,XGBoost
+0.75,0.27,0.77,XGBoost
+0.75,0.28,0.77,XGBoost
+0.75,0.29,0.79,XGBoost
+0.75,0.3,0.79,XGBoost
+0.8,0.05,0.37,XGBoost
+0.8,0.06,0.4,XGBoost
+0.8,0.07,0.43,XGBoost
+0.8,0.08,0.48,XGBoost
+0.8,0.09,0.51,XGBoost
+0.8,0.1,0.55,XGBoost
+0.8,0.11,0.56,XGBoost
+0.8,0.12,0.6,XGBoost
+0.8,0.13,0.6,XGBoost
+0.8,0.14,0.62,XGBoost
+0.8,0.15,0.62,XGBoost
+0.8,0.16,0.66,XGBoost
+0.8,0.17,0.66,XGBoost
+0.8,0.18,0.7,XGBoost
+0.8,0.19,0.7,XGBoost
+0.8,0.2,0.7,XGBoost
+0.8,0.21,0.71,XGBoost
+0.8,0.22,0.71,XGBoost
+0.8,0.23,0.75,XGBoost
+0.8,0.24,0.75,XGBoost
+0.8,0.25,0.75,XGBoost
+0.8,0.26,0.75,XGBoost
+0.8,0.27,0.77,XGBoost
+0.8,0.28,0.77,XGBoost
+0.8,0.29,0.77,XGBoost
+0.8,0.3,0.77,XGBoost
+0.85,0.05,0.37,XGBoost
+0.85,0.06,0.4,XGBoost
+0.85,0.07,0.43,XGBoost
+0.85,0.08,0.43,XGBoost
+0.85,0.09,0.48,XGBoost
+0.85,0.1,0.52,XGBoost
+0.85,0.11,0.55,XGBoost
+0.85,0.12,0.56,XGBoost
+0.85,0.13,0.6,XGBoost
+0.85,0.14,0.6,XGBoost
+0.85,0.15,0.62,XGBoost
+0.85,0.16,0.62,XGBoost
+0.85,0.17,0.66,XGBoost
+0.85,0.18,0.66,XGBoost
+0.85,0.19,0.7,XGBoost
+0.85,0.2,0.7,XGBoost
+0.85,0.21,0.7,XGBoost
+0.85,0.22,0.71,XGBoost
+0.85,0.23,0.71,XGBoost
+0.85,0.24,0.71,XGBoost
+0.85,0.25,0.75,XGBoost
+0.85,0.26,0.75,XGBoost
+0.85,0.27,0.75,XGBoost
+0.85,0.28,0.75,XGBoost
+0.85,0.29,0.77,XGBoost
+0.85,0.3,0.77,XGBoost
+0.9,0.05,0.33,XGBoost
+0.9,0.06,0.38,XGBoost
+0.9,0.07,0.4,XGBoost
+0.9,0.08,0.43,XGBoost
+0.9,0.09,0.48,XGBoost
+0.9,0.1,0.48,XGBoost
+0.9,0.11,0.53,XGBoost
+0.9,0.12,0.55,XGBoost
+0.9,0.13,0.56,XGBoost
+0.9,0.14,0.6,XGBoost
+0.9,0.15,0.6,XGBoost
+0.9,0.16,0.62,XGBoost
+0.9,0.17,0.62,XGBoost
+0.9,0.18,0.66,XGBoost
+0.9,0.19,0.66,XGBoost
+0.9,0.2,0.67,XGBoost
+0.9,0.21,0.7,XGBoost
+0.9,0.22,0.7,XGBoost
+0.9,0.23,0.71,XGBoost
+0.9,0.24,0.71,XGBoost
+0.9,0.25,0.71,XGBoost
+0.9,0.26,0.75,XGBoost
+0.9,0.27,0.75,XGBoost
+0.9,0.28,0.75,XGBoost
+0.9,0.29,0.75,XGBoost
+0.9,0.3,0.75,XGBoost
+0.2,0.05,0.7,LightGBM
+0.2,0.06,0.76,LightGBM
+0.2,0.07,0.77,LightGBM
+0.2,0.08,0.79,LightGBM
+0.2,0.09,0.81,LightGBM
+0.2,0.1,0.83,LightGBM
+0.2,0.11,0.83,LightGBM
+0.2,0.12,0.85,LightGBM
+0.2,0.13,0.85,LightGBM
+0.2,0.14,0.86,LightGBM
+0.2,0.15,0.88,LightGBM
+0.2,0.16,0.88,LightGBM
+0.2,0.17,0.88,LightGBM
+0.2,0.18,0.88,LightGBM
+0.2,0.19,0.9,LightGBM
+0.2,0.2,0.9,LightGBM
+0.2,0.21,0.9,LightGBM
+0.2,0.22,0.91,LightGBM
+0.2,0.23,0.91,LightGBM
+0.2,0.24,0.91,LightGBM
+0.2,0.25,0.91,LightGBM
+0.2,0.26,0.91,LightGBM
+0.2,0.27,0.91,LightGBM
+0.2,0.28,0.93,LightGBM
+0.2,0.29,0.93,LightGBM
+0.2,0.3,0.93,LightGBM
+0.25,0.05,0.68,LightGBM
+0.25,0.06,0.7,LightGBM
+0.25,0.07,0.76,LightGBM
+0.25,0.08,0.76,LightGBM
+0.25,0.09,0.79,LightGBM
+0.25,0.1,0.79,LightGBM
+0.25,0.11,0.81,LightGBM
+0.25,0.12,0.83,LightGBM
+0.25,0.13,0.83,LightGBM
+0.25,0.14,0.83,LightGBM
+0.25,0.15,0.85,LightGBM
+0.25,0.16,0.85,LightGBM
+0.25,0.17,0.86,LightGBM
+0.25,0.18,0.88,LightGBM
+0.25,0.19,0.88,LightGBM
+0.25,0.2,0.88,LightGBM
+0.25,0.21,0.88,LightGBM
+0.25,0.22,0.88,LightGBM
+0.25,0.23,0.88,LightGBM
+0.25,0.24,0.9,LightGBM
+0.25,0.25,0.9,LightGBM
+0.25,0.26,0.9,LightGBM
+0.25,0.27,0.91,LightGBM
+0.25,0.28,0.91,LightGBM
+0.25,0.29,0.91,LightGBM
+0.25,0.3,0.91,LightGBM
+0.3,0.05,0.64,LightGBM
+0.3,0.06,0.68,LightGBM
+0.3,0.07,0.7,LightGBM
+0.3,0.08,0.74,LightGBM
+0.3,0.09,0.76,LightGBM
+0.3,0.1,0.77,LightGBM
+0.3,0.11,0.79,LightGBM
+0.3,0.12,0.79,LightGBM
+0.3,0.13,0.81,LightGBM
+0.3,0.14,0.83,LightGBM
+0.3,0.15,0.83,LightGBM
+0.3,0.16,0.83,LightGBM
+0.3,0.17,0.83,LightGBM
+0.3,0.18,0.85,LightGBM
+0.3,0.19,0.85,LightGBM
+0.3,0.2,0.85,LightGBM
+0.3,0.21,0.86,LightGBM
+0.3,0.22,0.88,LightGBM
+0.3,0.23,0.88,LightGBM
+0.3,0.24,0.88,LightGBM
+0.3,0.25,0.88,LightGBM
+0.3,0.26,0.88,LightGBM
+0.3,0.27,0.88,LightGBM
+0.3,0.28,0.88,LightGBM
+0.3,0.29,0.9,LightGBM
+0.3,0.3,0.9,LightGBM
+0.35,0.05,0.57,LightGBM
+0.35,0.06,0.64,LightGBM
+0.35,0.07,0.68,LightGBM
+0.35,0.08,0.7,LightGBM
+0.35,0.09,0.74,LightGBM
+0.35,0.1,0.76,LightGBM
+0.35,0.11,0.76,LightGBM
+0.35,0.12,0.77,LightGBM
+0.35,0.13,0.79,LightGBM
+0.35,0.14,0.79,LightGBM
+0.35,0.15,0.81,LightGBM
+0.35,0.16,0.83,LightGBM
+0.35,0.17,0.83,LightGBM
+0.35,0.18,0.83,LightGBM
+0.35,0.19,0.83,LightGBM
+0.35,0.2,0.83,LightGBM
+0.35,0.21,0.85,LightGBM
+0.35,0.22,0.85,LightGBM
+0.35,0.23,0.85,LightGBM
+0.35,0.24,0.86,LightGBM
+0.35,0.25,0.87,LightGBM
+0.35,0.26,0.88,LightGBM
+0.35,0.27,0.88,LightGBM
+0.35,0.28,0.88,LightGBM
+0.35,0.29,0.88,LightGBM
+0.35,0.3,0.88,LightGBM
+0.4,0.05,0.57,LightGBM
+0.4,0.06,0.6,LightGBM
+0.4,0.07,0.64,LightGBM
+0.4,0.08,0.68,LightGBM
+0.4,0.09,0.7,LightGBM
+0.4,0.1,0.7,LightGBM
+0.4,0.11,0.74,LightGBM
+0.4,0.12,0.76,LightGBM
+0.4,0.13,0.77,LightGBM
+0.4,0.14,0.77,LightGBM
+0.4,0.15,0.79,LightGBM
+0.4,0.16,0.79,LightGBM
+0.4,0.17,0.81,LightGBM
+0.4,0.18,0.81,LightGBM
+0.4,0.19,0.83,LightGBM
+0.4,0.2,0.83,LightGBM
+0.4,0.21,0.83,LightGBM
+0.4,0.22,0.83,LightGBM
+0.4,0.23,0.83,LightGBM
+0.4,0.24,0.85,LightGBM
+0.4,0.25,0.85,LightGBM
+0.4,0.26,0.85,LightGBM
+0.4,0.27,0.85,LightGBM
+0.4,0.28,0.86,LightGBM
+0.4,0.29,0.88,LightGBM
+0.4,0.3,0.88,LightGBM
+0.45,0.05,0.52,LightGBM
+0.45,0.06,0.57,LightGBM
+0.45,0.07,0.63,LightGBM
+0.45,0.08,0.64,LightGBM
+0.45,0.09,0.68,LightGBM
+0.45,0.1,0.7,LightGBM
+0.45,0.11,0.7,LightGBM
+0.45,0.12,0.74,LightGBM
+0.45,0.13,0.76,LightGBM
+0.45,0.14,0.76,LightGBM
+0.45,0.15,0.77,LightGBM
+0.45,0.16,0.77,LightGBM
+0.45,0.17,0.79,LightGBM
+0.45,0.18,0.79,LightGBM
+0.45,0.19,0.81,LightGBM
+0.45,0.2,0.81,LightGBM
+0.45,0.21,0.83,LightGBM
+0.45,0.22,0.83,LightGBM
+0.45,0.23,0.83,LightGBM
+0.45,0.24,0.83,LightGBM
+0.45,0.25,0.83,LightGBM
+0.45,0.26,0.83,LightGBM
+0.45,0.27,0.85,LightGBM
+0.45,0.28,0.85,LightGBM
+0.45,0.29,0.85,LightGBM
+0.45,0.3,0.85,LightGBM
+0.5,0.05,0.51,LightGBM
+0.5,0.06,0.56,LightGBM
+0.5,0.07,0.57,LightGBM
+0.5,0.08,0.64,LightGBM
+0.5,0.09,0.64,LightGBM
+0.5,0.1,0.68,LightGBM
+0.5,0.11,0.68,LightGBM
+0.5,0.12,0.7,LightGBM
+0.5,0.13,0.74,LightGBM
+0.5,0.14,0.76,LightGBM
+0.5,0.15,0.76,LightGBM
+0.5,0.16,0.76,LightGBM
+0.5,0.17,0.77,LightGBM
+0.5,0.18,0.79,LightGBM
+0.5,0.19,0.79,LightGBM
+0.5,0.2,0.79,LightGBM
+0.5,0.21,0.81,LightGBM
+0.5,0.22,0.81,LightGBM
+0.5,0.23,0.83,LightGBM
+0.5,0.24,0.83,LightGBM
+0.5,0.25,0.83,LightGBM
+0.5,0.26,0.83,LightGBM
+0.5,0.27,0.83,LightGBM
+0.5,0.28,0.83,LightGBM
+0.5,0.29,0.83,LightGBM
+0.5,0.3,0.85,LightGBM
+0.55,0.05,0.47,LightGBM
+0.55,0.06,0.52,LightGBM
+0.55,0.07,0.57,LightGBM
+0.55,0.08,0.6,LightGBM
+0.55,0.09,0.64,LightGBM
+0.55,0.1,0.64,LightGBM
+0.55,0.11,0.68,LightGBM
+0.55,0.12,0.68,LightGBM
+0.55,0.13,0.7,LightGBM
+0.55,0.14,0.72,LightGBM
+0.55,0.15,0.74,LightGBM
+0.55,0.16,0.76,LightGBM
+0.55,0.17,0.76,LightGBM
+0.55,0.18,0.77,LightGBM
+0.55,0.19,0.77,LightGBM
+0.55,0.2,0.79,LightGBM
+0.55,0.21,0.79,LightGBM
+0.55,0.22,0.79,LightGBM
+0.55,0.23,0.81,LightGBM
+0.55,0.24,0.81,LightGBM
+0.55,0.25,0.83,LightGBM
+0.55,0.26,0.83,LightGBM
+0.55,0.27,0.83,LightGBM
+0.55,0.28,0.83,LightGBM
+0.55,0.29,0.83,LightGBM
+0.55,0.3,0.83,LightGBM
+0.6,0.05,0.45,LightGBM
+0.6,0.06,0.51,LightGBM
+0.6,0.07,0.54,LightGBM
+0.6,0.08,0.57,LightGBM
+0.6,0.09,0.6,LightGBM
+0.6,0.1,0.64,LightGBM
+0.6,0.11,0.67,LightGBM
+0.6,0.12,0.68,LightGBM
+0.6,0.13,0.68,LightGBM
+0.6,0.14,0.7,LightGBM
+0.6,0.15,0.7,LightGBM
+0.6,0.16,0.74,LightGBM
+0.6,0.17,0.76,LightGBM
+0.6,0.18,0.76,LightGBM
+0.6,0.19,0.76,LightGBM
+0.6,0.2,0.77,LightGBM
+0.6,0.21,0.77,LightGBM
+0.6,0.22,0.79,LightGBM
+0.6,0.23,0.79,LightGBM
+0.6,0.24,0.79,LightGBM
+0.6,0.25,0.81,LightGBM
+0.6,0.26,0.81,LightGBM
+0.6,0.27,0.81,LightGBM
+0.6,0.28,0.83,LightGBM
+0.6,0.29,0.83,LightGBM
+0.6,0.3,0.83,LightGBM
+0.65,0.05,0.43,LightGBM
+0.65,0.06,0.47,LightGBM
+0.65,0.07,0.52,LightGBM
+0.65,0.08,0.56,LightGBM
+0.65,0.09,0.57,LightGBM
+0.65,0.1,0.62,LightGBM
+0.65,0.11,0.64,LightGBM
+0.65,0.12,0.67,LightGBM
+0.65,0.13,0.68,LightGBM
+0.65,0.14,0.68,LightGBM
+0.65,0.15,0.7,LightGBM
+0.65,0.16,0.7,LightGBM
+0.65,0.17,0.74,LightGBM
+0.65,0.18,0.76,LightGBM
+0.65,0.19,0.76,LightGBM
+0.65,0.2,0.76,LightGBM
+0.65,0.21,0.77,LightGBM
+0.65,0.22,0.77,LightGBM
+0.65,0.23,0.77,LightGBM
+0.65,0.24,0.79,LightGBM
+0.65,0.25,0.79,LightGBM
+0.65,0.26,0.79,LightGBM
+0.65,0.27,0.81,LightGBM
+0.65,0.28,0.81,LightGBM
+0.65,0.29,0.81,LightGBM
+0.65,0.3,0.83,LightGBM
+0.7,0.05,0.43,LightGBM
+0.7,0.06,0.45,LightGBM
+0.7,0.07,0.51,LightGBM
+0.7,0.08,0.52,LightGBM
+0.7,0.09,0.57,LightGBM
+0.7,0.1,0.57,LightGBM
+0.7,0.11,0.63,LightGBM
+0.7,0.12,0.64,LightGBM
+0.7,0.13,0.68,LightGBM
+0.7,0.14,0.68,LightGBM
+0.7,0.15,0.68,LightGBM
+0.7,0.16,0.7,LightGBM
+0.7,0.17,0.7,LightGBM
+0.7,0.18,0.74,LightGBM
+0.7,0.19,0.74,LightGBM
+0.7,0.2,0.76,LightGBM
+0.7,0.21,0.76,LightGBM
+0.7,0.22,0.76,LightGBM
+0.7,0.23,0.77,LightGBM
+0.7,0.24,0.77,LightGBM
+0.7,0.25,0.78,LightGBM
+0.7,0.26,0.79,LightGBM
+0.7,0.27,0.79,LightGBM
+0.7,0.28,0.79,LightGBM
+0.7,0.29,0.81,LightGBM
+0.7,0.3,0.81,LightGBM
+0.75,0.05,0.41,LightGBM
+0.75,0.06,0.44,LightGBM
+0.75,0.07,0.47,LightGBM
+0.75,0.08,0.52,LightGBM
+0.75,0.09,0.56,LightGBM
+0.75,0.1,0.57,LightGBM
+0.75,0.11,0.6,LightGBM
+0.75,0.12,0.64,LightGBM
+0.75,0.13,0.64,LightGBM
+0.75,0.14,0.68,LightGBM
+0.75,0.15,0.68,LightGBM
+0.75,0.16,0.68,LightGBM
+0.75,0.17,0.7,LightGBM
+0.75,0.18,0.7,LightGBM
+0.75,0.19,0.72,LightGBM
+0.75,0.2,0.74,LightGBM
+0.75,0.21,0.76,LightGBM
+0.75,0.22,0.76,LightGBM
+0.75,0.23,0.76,LightGBM
+0.75,0.24,0.76,LightGBM
+0.75,0.25,0.77,LightGBM
+0.75,0.26,0.77,LightGBM
+0.75,0.27,0.79,LightGBM
+0.75,0.28,0.79,LightGBM
+0.75,0.29,0.79,LightGBM
+0.75,0.3,0.79,LightGBM
+0.8,0.05,0.38,LightGBM
+0.8,0.06,0.43,LightGBM
+0.8,0.07,0.45,LightGBM
+0.8,0.08,0.51,LightGBM
+0.8,0.09,0.52,LightGBM
+0.8,0.1,0.57,LightGBM
+0.8,0.11,0.57,LightGBM
+0.8,0.12,0.6,LightGBM
+0.8,0.13,0.64,LightGBM
+0.8,0.14,0.64,LightGBM
+0.8,0.15,0.68,LightGBM
+0.8,0.16,0.68,LightGBM
+0.8,0.17,0.68,LightGBM
+0.8,0.18,0.7,LightGBM
+0.8,0.19,0.7,LightGBM
+0.8,0.2,0.7,LightGBM
+0.8,0.21,0.74,LightGBM
+0.8,0.22,0.74,LightGBM
+0.8,0.23,0.76,LightGBM
+0.8,0.24,0.76,LightGBM
+0.8,0.25,0.76,LightGBM
+0.8,0.26,0.77,LightGBM
+0.8,0.27,0.77,LightGBM
+0.8,0.28,0.77,LightGBM
+0.8,0.29,0.79,LightGBM
+0.8,0.3,0.79,LightGBM
+0.85,0.05,0.38,LightGBM
+0.85,0.06,0.43,LightGBM
+0.85,0.07,0.44,LightGBM
+0.85,0.08,0.47,LightGBM
+0.85,0.09,0.52,LightGBM
+0.85,0.1,0.56,LightGBM
+0.85,0.11,0.57,LightGBM
+0.85,0.12,0.57,LightGBM
+0.85,0.13,0.62,LightGBM
+0.85,0.14,0.64,LightGBM
+0.85,0.15,0.64,LightGBM
+0.85,0.16,0.68,LightGBM
+0.85,0.17,0.68,LightGBM
+0.85,0.18,0.68,LightGBM
+0.85,0.19,0.7,LightGBM
+0.85,0.2,0.7,LightGBM
+0.85,0.21,0.7,LightGBM
+0.85,0.22,0.74,LightGBM
+0.85,0.23,0.74,LightGBM
+0.85,0.24,0.76,LightGBM
+0.85,0.25,0.76,LightGBM
+0.85,0.26,0.76,LightGBM
+0.85,0.27,0.76,LightGBM
+0.85,0.28,0.77,LightGBM
+0.85,0.29,0.77,LightGBM
+0.85,0.3,0.77,LightGBM
+0.9,0.05,0.38,LightGBM
+0.9,0.06,0.41,LightGBM
+0.9,0.07,0.43,LightGBM
+0.9,0.08,0.45,LightGBM
+0.9,0.09,0.51,LightGBM
+0.9,0.1,0.52,LightGBM
+0.9,0.11,0.56,LightGBM
+0.9,0.12,0.57,LightGBM
+0.9,0.13,0.6,LightGBM
+0.9,0.14,0.63,LightGBM
+0.9,0.15,0.64,LightGBM
+0.9,0.16,0.64,LightGBM
+0.9,0.17,0.68,LightGBM
+0.9,0.18,0.68,LightGBM
+0.9,0.19,0.68,LightGBM
+0.9,0.2,0.7,LightGBM
+0.9,0.21,0.7,LightGBM
+0.9,0.22,0.7,LightGBM
+0.9,0.23,0.72,LightGBM
+0.9,0.24,0.74,LightGBM
+0.9,0.25,0.76,LightGBM
+0.9,0.26,0.76,LightGBM
+0.9,0.27,0.76,LightGBM
+0.9,0.28,0.76,LightGBM
+0.9,0.29,0.77,LightGBM
+0.9,0.3,0.77,LightGBM

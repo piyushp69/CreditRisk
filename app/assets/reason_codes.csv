@@ -1,0 +1,10 @@
+applicant,label,score,actual,feature,shap_log_odds,reason
+1,Highest risk,0.9482213398020273,1,EXT_SOURCE_MEAN,0.833851016404935,Average external credit score is 0.17 (scale 0-1)
+1,Highest risk,0.9482213398020273,1,EXT_SOURCE_2,0.3840547932800512,External credit score 2 is 0.04 (scale 0-1)
+1,Highest risk,0.9482213398020273,1,BUR_DEBT_CREDIT_RATIO,0.30324959878155194,Outstanding bureau debt is 99% of bureau credit
+2,Median rejected,0.7729035172291203,0,EXT_SOURCE_MEAN,1.0061140742506858,Average external credit score is 0.13 (scale 0-1)
+2,Median rejected,0.7729035172291203,0,EXT_SOURCE_2,0.41453366388711266,External credit score 2 is 0.05 (scale 0-1)
+2,Median rejected,0.7729035172291203,0,EXT_SOURCE_3,0.27187324549761666,External credit score 3 is 0.21 (scale 0-1)
+3,Closest to the threshold,0.7000393418877082,0,EXT_SOURCE_MEAN,0.6243005119283416,Average external credit score is 0.30 (scale 0-1)
+3,Closest to the threshold,0.7000393418877082,0,EXT_SOURCE_3,0.2949199009274169,External credit score 3 is 0.18 (scale 0-1)
+3,Closest to the threshold,0.7000393418877082,0,PREV_APP_CREDIT_RATIO_MEAN,0.14732022791014604,"Previously requested 87% of the credit granted, on average"

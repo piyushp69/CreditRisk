@@ -1,0 +1,11 @@
+file,status,rows,columns,contents
+application_train.csv,used,307511.0,122.0,One row per loan application with the TARGET label (the modelling table)
+bureau.csv,used,1716428.0,17.0,Previous credits at other institutions reported to the Credit Bureau
+previous_application.csv,used,1670214.0,37.0,The applicant's previous applications to Home Credit
+installments_payments.csv,used,13605401.0,8.0,Repayment history of previous Home Credit loans
+HomeCredit_columns_description.csv,used,219.0,5.0,Column dictionary of all tables
+application_test.csv,"downloaded, not used",48744.0,121.0,"Same as train but without TARGET: downloaded, not used for evaluation"
+bureau_balance.csv,excluded,,,Month-by-month status of each bureau credit; bureau.csv already summarises it
+POS_CASH_balance.csv,excluded,,,Monthly snapshots of previous point-of-sale and cash loans; left out of scope
+credit_card_balance.csv,excluded,,,Monthly snapshots of previous credit cards; left out of scope
+sample_submission.csv,excluded,,,Kaggle submission format only

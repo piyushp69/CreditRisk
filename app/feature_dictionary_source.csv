@@ -1,0 +1,42 @@
+feature,group,formula,meaning,source
+AGE_YEARS,Cleaning,-DAYS_BIRTH / 365,Applicant's age in years,application_train
+YEARS_EMPLOYED,Cleaning,-DAYS_EMPLOYED / 365 (missing when DAYS_EMPLOYED = 365243),Years in the current job,application_train
+DAYS_EMPLOYED_ANOM,Cleaning,1 if DAYS_EMPLOYED = 365243 else 0,Placeholder value used for applicants with no current employment (mostly pensioners),application_train
+CREDIT_INCOME_RATIO,Application ratio,AMT_CREDIT / AMT_INCOME_TOTAL,Loan size relative to annual income,application_train
+ANNUITY_INCOME_RATIO,Application ratio,AMT_ANNUITY / AMT_INCOME_TOTAL,Share of income needed for the yearly repayment,application_train
+CREDIT_TERM,Application ratio,AMT_ANNUITY / AMT_CREDIT,Yearly repayment as a share of the loan (higher = shorter loan),application_train
+GOODS_CREDIT_RATIO,Application ratio,AMT_GOODS_PRICE / AMT_CREDIT,How much of the loan is covered by the price of the goods bought,application_train
+EMPLOYED_TO_AGE,Application ratio,DAYS_EMPLOYED / DAYS_BIRTH,Share of the applicant's life spent in the current job,application_train
+INCOME_PER_FAMILY_MEMBER,Application ratio,AMT_INCOME_TOTAL / CNT_FAM_MEMBERS,Income available per family member,application_train
+EXT_SOURCE_MEAN,Application ratio,mean of the available EXT_SOURCE_1/2/3,Average external credit score,application_train
+EXT_SOURCE_STD,Application ratio,standard deviation of the available EXT_SOURCE_1/2/3 (needs two or more),How much the external scores disagree,application_train
+HAS_BUREAU_HISTORY,History flag,1 if the applicant has any row in bureau,Applicant has a Credit Bureau record (0 = thin file),bureau
+HAS_PREV_APPLICATION,History flag,1 if the applicant has any row in previous_application,Applicant applied to Home Credit before,previous_application
+HAS_INSTALLMENT_HISTORY,History flag,1 if the applicant has any row in installments_payments,Applicant has repayment history with Home Credit,installments_payments
+BUR_LOAN_COUNT,Credit Bureau,number of bureau credits,How many credits other lenders reported,bureau
+BUR_ACTIVE_COUNT,Credit Bureau,number of credits with CREDIT_ACTIVE = Active,Credits still open at other lenders,bureau
+BUR_ACTIVE_SHARE,Credit Bureau,BUR_ACTIVE_COUNT / BUR_LOAN_COUNT,Share of bureau credits still open,bureau
+BUR_CREDIT_SUM_SUM,Credit Bureau,sum of AMT_CREDIT_SUM,Total amount of bureau credits,bureau
+BUR_CREDIT_SUM_MEAN,Credit Bureau,mean of AMT_CREDIT_SUM,Average size of a bureau credit,bureau
+BUR_DEBT_SUM,Credit Bureau,sum of AMT_CREDIT_SUM_DEBT,Outstanding debt at other lenders,bureau
+BUR_DEBT_CREDIT_RATIO,Credit Bureau,BUR_DEBT_SUM / BUR_CREDIT_SUM_SUM,Share of bureau credit still owed,bureau
+BUR_OVERDUE_SUM,Credit Bureau,sum of AMT_CREDIT_SUM_OVERDUE,Amount currently overdue at other lenders,bureau
+BUR_MAX_DAY_OVERDUE,Credit Bureau,max of CREDIT_DAY_OVERDUE,Longest current delay on a bureau credit (days),bureau
+BUR_DAYS_CREDIT_MEAN,Credit Bureau,mean of DAYS_CREDIT,How long ago bureau credits were opened on average (negative days),bureau
+PREV_APP_COUNT,Previous applications,number of previous applications,How often the applicant applied to Home Credit before,previous_application
+PREV_APPROVED_COUNT,Previous applications,number with NAME_CONTRACT_STATUS = Approved,Previous applications that were approved,previous_application
+PREV_REFUSED_COUNT,Previous applications,number with NAME_CONTRACT_STATUS = Refused,Previous applications that were refused,previous_application
+PREV_APPROVED_SHARE,Previous applications,PREV_APPROVED_COUNT / PREV_APP_COUNT,Share of previous applications approved,previous_application
+PREV_REFUSED_SHARE,Previous applications,PREV_REFUSED_COUNT / PREV_APP_COUNT,Share of previous applications refused,previous_application
+PREV_AMT_APPLICATION_MEAN,Previous applications,mean of AMT_APPLICATION,Average amount requested before,previous_application
+PREV_AMT_CREDIT_MEAN,Previous applications,mean of AMT_CREDIT,Average amount granted before,previous_application
+PREV_APP_CREDIT_RATIO_MEAN,Previous applications,mean of AMT_APPLICATION / AMT_CREDIT,Requested vs granted amount on previous applications,previous_application
+PREV_DAYS_SINCE_LAST_DECISION,Previous applications,-max(DAYS_DECISION),Days since the most recent previous decision,previous_application
+INST_COUNT,Instalments,number of instalments (partial payments of one instalment combined),Length of the repayment history,installments_payments
+INST_LATE_SHARE,Instalments,share of instalments with days late > 0,How often the applicant paid late,installments_payments
+INST_DAYS_LATE_MEAN,Instalments,"mean of max(0, last DAYS_ENTRY_PAYMENT - DAYS_INSTALMENT)",Average delay per instalment (days),installments_payments
+INST_DAYS_LATE_MAX,Instalments,"max of max(0, last DAYS_ENTRY_PAYMENT - DAYS_INSTALMENT)",Longest delay on an instalment (days),installments_payments
+INST_PAYMENT_RATIO_MEAN,Instalments,mean of total AMT_PAYMENT / AMT_INSTALMENT,Average share of each instalment paid,installments_payments
+INST_PAYMENT_RATIO_MIN,Instalments,min of total AMT_PAYMENT / AMT_INSTALMENT,Lowest share of an instalment paid,installments_payments
+INST_UNDERPAID_SHARE,Instalments,share of instalments with payment ratio < 0.999,How often an instalment was not fully paid,installments_payments
+INST_PARTIAL_PAYMENT_SHARE,Instalments,share of instalments paid in more than one payment,How often an instalment was split into several payments,installments_payments

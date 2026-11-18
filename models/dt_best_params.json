@@ -1,0 +1,11 @@
+{
+  "params": {
+    "max_depth": 6,
+    "min_samples_leaf": 200
+  },
+  "class_weight": "balanced",
+  "depth": 6,
+  "leaves": 64,
+  "cv_auc_mean": 0.726609961387721,
+  "cv_auc_std": 0.0021981990661534166
+}

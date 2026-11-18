@@ -1,0 +1,12 @@
+{
+  "chosen_on": "train out-of-fold predictions",
+  "LGD": 0.6,
+  "MARGIN": 0.15,
+  "thresholds": {
+    "Logistic regression": 0.74,
+    "Decision tree": 0.76,
+    "Random forest": 0.52,
+    "XGBoost": 0.7,
+    "LightGBM": 0.7
+  }
+}

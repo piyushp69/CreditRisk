@@ -1,0 +1,13 @@
+{
+  "params": {
+    "n_estimators": 400,
+    "min_samples_leaf": 20,
+    "max_features": 0.3,
+    "max_depth": null
+  },
+  "class_weight": "balanced_subsample",
+  "max_samples": 0.5,
+  "trials_run": 12,
+  "cv_auc_mean": 0.7591683204973452,
+  "cv_auc_std": 0.0021857837196991043
+}
